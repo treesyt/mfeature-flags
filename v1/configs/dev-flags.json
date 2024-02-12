@@ -2,7 +2,7 @@
   "GH": {
     "TRAINING": true,
     "TREE_MANAGEMENT": true,
-    "ALLOCATION": true,
+    "ALLOCATION": false,
     "FARMER_PROFILING": true,
     "COMMUNITY_PROFILING": true
   },
