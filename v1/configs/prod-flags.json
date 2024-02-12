@@ -1,0 +1,11 @@
+{
+  "DESCRIPTION": "Available types are string, boolean, float",
+  "GH": {
+    "FARMER_PROFILING": true,
+    "COMMUNITY_PROFILING": true
+  },
+  "BF": {
+    "FARMER_PROFILING": true,
+    "COMMUNITY_PROFILING": true
+  }
+}
