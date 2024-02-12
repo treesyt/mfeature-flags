@@ -1,10 +1,15 @@
 {
-  "DESCRIPTION": "Available types are string, boolean, float",
   "GH": {
+    "TRAINING": true,
+    "TREE_MANAGEMENT": true,
+    "ALLOCATION": true,
     "FARMER_PROFILING": true,
     "COMMUNITY_PROFILING": true
   },
   "BF": {
+    "TRAINING": false,
+    "TREE_MANAGEMENT": false,
+    "ALLOCATION": false,
     "FARMER_PROFILING": true,
     "COMMUNITY_PROFILING": true
   }
