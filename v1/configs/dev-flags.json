@@ -2,15 +2,17 @@
   "GH": {
     "TRAINING": true,
     "TREE_MANAGEMENT": true,
-    "ALLOCATION": false,
+    "ALLOCATION": true,
     "FARMER_PROFILING": true,
-    "COMMUNITY_PROFILING": true
+    "COMMUNITY_PROFILING": true,
+    "FORCE_LOGOUT_ON_401": true
   },
   "BF": {
     "TRAINING": false,
     "TREE_MANAGEMENT": false,
     "ALLOCATION": false,
     "FARMER_PROFILING": true,
-    "COMMUNITY_PROFILING": true
+    "COMMUNITY_PROFILING": true,
+    "FORCE_LOGOUT_ON_401": true
   }
 }
