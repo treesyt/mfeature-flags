@@ -1,9 +1,9 @@
 {
   "GH": {
-    "TRAINING": true,
+    "TRAINING": false,
     "TREE_MANAGEMENT": true,
-    "ALLOCATION": true,
-    "FARMER_PROFILING": true,
+    "ALLOCATION": false,
+    "FARMER_PROFILING": false,
     "COMMUNITY_PROFILING": true,
     "FORCE_LOGOUT_ON_401": true
   },
