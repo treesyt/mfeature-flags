@@ -8,9 +8,9 @@
     "FORCE_LOGOUT_ON_401": true
   },
   "BF": {
-    "TRAINING": false,
-    "TREE_MANAGEMENT": false,
-    "ALLOCATION": false,
+    "TRAINING": true,
+    "TREE_MANAGEMENT": true,
+    "ALLOCATION": true,
     "FARMER_PROFILING": true,
     "COMMUNITY_PROFILING": true,
     "FORCE_LOGOUT_ON_401": true
