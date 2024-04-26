@@ -6,7 +6,7 @@
     "FARMER_PROFILING": true,
     "COMMUNITY_PROFILING": true,
     "FORCE_LOGOUT_ON_401": true,
-    "BYPASS_LOGIN_PAGE": false,
+    "BYPASS_LOGIN_PAGE": false
   },
   "BF": {
     "TRAINING": false,
@@ -15,6 +15,6 @@
     "FARMER_PROFILING": true,
     "COMMUNITY_PROFILING": true,
     "FORCE_LOGOUT_ON_401": true,
-    "BYPASS_LOGIN_PAGE": false,
+    "BYPASS_LOGIN_PAGE": false
   }
 }
