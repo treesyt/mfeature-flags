@@ -6,7 +6,8 @@
     "FARMER_PROFILING": true,
     "COMMUNITY_PROFILING": true,
     "FORCE_LOGOUT_ON_401": true,
-    "USE_UNIVERSAL_ID": false
+    "USE_UNIVERSAL_ID": false,
+    "MIN_RECODING_TIME_MILLISECONDS": 5000
   },
   "BF": {
     "TRAINING": false,
@@ -15,6 +16,7 @@
     "FARMER_PROFILING": true,
     "COMMUNITY_PROFILING": true,
     "FORCE_LOGOUT_ON_401": true,
-    "USE_UNIVERSAL_ID": false
+    "USE_UNIVERSAL_ID": false,
+    "MIN_RECODING_TIME_MILLISECONDS": 5000
   }
 }
