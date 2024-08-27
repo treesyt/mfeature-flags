@@ -1,6 +1,6 @@
 {
   "GH": {
-    "TRAINING": true,
+    "TRAINING": false,
     "TREE_MANAGEMENT": true,
     "ALLOCATION": true,
     "FARMER_PROFILING": true,
@@ -11,7 +11,7 @@
     "CREATE_WORKSHOPS": true
   },
   "BF": {
-    "TRAINING": true,
+    "TRAINING": false,
     "TREE_MANAGEMENT": true,
     "ALLOCATION": true,
     "FARMER_PROFILING": true,
