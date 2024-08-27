@@ -1,6 +1,6 @@
 {
   "GH": {
-    "TRAINING": true,
+    "TRAINING": false,
     "TREE_MANAGEMENT": true,
     "ALLOCATION": true,
     "FARMER_PROFILING": true,
