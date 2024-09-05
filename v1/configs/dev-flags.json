@@ -8,7 +8,8 @@
     "FORCE_LOGOUT_ON_401": true,
     "USE_UNIVERSAL_ID": true,
     "MIN_RECODING_TIME_MILLISECONDS": 5000,
-    "CREATE_WORKSHOPS": false
+    "CREATE_WORKSHOPS": false,
+    "PURCHASE_VOICE_NOTE": false
   },
   "BF": {
     "TRAINING": true,
@@ -19,6 +20,7 @@
     "FORCE_LOGOUT_ON_401": true,
     "USE_UNIVERSAL_ID": true,
     "MIN_RECODING_TIME_MILLISECONDS": 5000,
-    "CREATE_WORKSHOPS": true
+    "CREATE_WORKSHOPS": true,
+    "PURCHASE_VOICE_NOTE": false
   }
 }
