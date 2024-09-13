@@ -9,7 +9,8 @@
     "USE_UNIVERSAL_ID": true,
     "MIN_RECODING_TIME_MILLISECONDS": 5000,
     "CREATE_WORKSHOPS": false,
-    "PURCHASE_VOICE_NOTE": true
+    "PURCHASE_VOICE_NOTE": true,
+    "RECEIPTS": true
   },
   "BF": {
     "TRAINING": false,
@@ -21,6 +22,7 @@
     "USE_UNIVERSAL_ID": true,
     "MIN_RECODING_TIME_MILLISECONDS": 5000,
     "CREATE_WORKSHOPS": false,
-    "PURCHASE_VOICE_NOTE": false
+    "PURCHASE_VOICE_NOTE": false,
+    "RECEIPTS": false
   }
 }
