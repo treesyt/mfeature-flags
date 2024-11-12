@@ -10,7 +10,7 @@
     "MIN_RECODING_TIME_MILLISECONDS": 1000,
     "CREATE_WORKSHOPS": false,
     "PURCHASE_VOICE_NOTE": true,
-    "RECEIPTS": true
+    "RECEIPTS": false
   },
   "BF": {
     "TRAINING": true,
