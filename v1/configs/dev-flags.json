@@ -11,7 +11,7 @@
     "CREATE_WORKSHOPS": false,
     "PURCHASE_VOICE_NOTE": true,
     "RECEIPTS": true,
-    "NFC_CARD": true
+    "NFC_CARD": false
   },
   "BF": {
     "TRAINING": true,
