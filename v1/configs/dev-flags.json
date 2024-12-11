@@ -10,7 +10,8 @@
     "MIN_RECODING_TIME_MILLISECONDS": 1000,
     "CREATE_WORKSHOPS": false,
     "PURCHASE_VOICE_NOTE": true,
-    "RECEIPTS": true
+    "RECEIPTS": true,
+    "NFC_CARD": true
   },
   "BF": {
     "TRAINING": true,
@@ -23,6 +24,7 @@
     "MIN_RECODING_TIME_MILLISECONDS": 5000,
     "CREATE_WORKSHOPS": true,
     "PURCHASE_VOICE_NOTE": false,
-    "RECEIPTS": false
+    "RECEIPTS": false,
+    "NFC_CARD": true
   }
 }
