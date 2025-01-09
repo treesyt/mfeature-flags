@@ -12,7 +12,7 @@
     "PURCHASE_VOICE_NOTE": true,
     "RECEIPTS": true,
     "NFC_CARD": true,
-    "RE_ISSUE_NFC_CARD": true
+    "RE_ISSUE_NFC_CARD": false
   },
   "BF": {
     "TRAINING": true,
