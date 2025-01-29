@@ -1,7 +1,10 @@
 {
   "GH": {
     "TRAINING": {
-      "value": false
+      "value": false,
+      "TRUE_FOR": {
+        "REGION": [1, 2, 3]
+      }
     },
     "TREE_MANAGEMENT": {
       "value": true
