@@ -1,0 +1,91 @@
+{
+    "GH": {
+        "TRAINING": {
+            "value": false,
+            "TRUE_FOR": {
+                "REGION": [
+                    1,
+                    2,
+                    3
+                ]
+            }
+        },
+        "TREE_MANAGEMENT": {
+            "value": true
+        },
+        "ALLOCATION": {
+            "value": true
+        },
+        "FARMER_PROFILING": {
+            "value": true
+        },
+        "COMMUNITY_PROFILING": {
+            "value": true
+        },
+        "FORCE_LOGOUT_ON_401": {
+            "value": true
+        },
+        "USE_UNIVERSAL_ID": {
+            "value": true
+        },
+        "MIN_RECODING_TIME_MILLISECONDS": {
+            "value": 1000
+        },
+        "CREATE_WORKSHOPS": {
+            "value": false
+        },
+        "PURCHASE_VOICE_NOTE": {
+            "value": true
+        },
+        "RECEIPTS": {
+            "value": true
+        },
+        "NFC_CARD": {
+            "value": true
+        },
+        "RE_ISSUE_NFC_CARD": {
+            "value": false
+        }
+    },
+    "BF": {
+        "TRAINING": {
+            "value": true
+        },
+        "TREE_MANAGEMENT": {
+            "value": false
+        },
+        "ALLOCATION": {
+            "value": false
+        },
+        "FARMER_PROFILING": {
+            "value": true
+        },
+        "COMMUNITY_PROFILING": {
+            "value": true
+        },
+        "FORCE_LOGOUT_ON_401": {
+            "value": true
+        },
+        "USE_UNIVERSAL_ID": {
+            "value": true
+        },
+        "MIN_RECODING_TIME_MILLISECONDS": {
+            "value": 5000
+        },
+        "CREATE_WORKSHOPS": {
+            "value": true
+        },
+        "PURCHASE_VOICE_NOTE": {
+            "value": false
+        },
+        "RECEIPTS": {
+            "value": false
+        },
+        "NFC_CARD": {
+            "value": true
+        },
+        "RE_ISSUE_NFC_CARD": {
+            "value": false
+        }
+    }
+}
