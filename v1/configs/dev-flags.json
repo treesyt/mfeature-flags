@@ -1,32 +1,84 @@
 {
   "GH": {
-    "TRAINING": true,
-    "TREE_MANAGEMENT": true,
-    "ALLOCATION": true,
-    "FARMER_PROFILING": true,
-    "COMMUNITY_PROFILING": true,
-    "FORCE_LOGOUT_ON_401": true,
-    "USE_UNIVERSAL_ID": true,
-    "MIN_RECODING_TIME_MILLISECONDS": 1000,
-    "CREATE_WORKSHOPS": false,
-    "PURCHASE_VOICE_NOTE": true,
-    "RECEIPTS": true,
-    "NFC_CARD": true,
-    "RE_ISSUE_NFC_CARD": false
+    "TRAINING": {
+      "value": true
+    },
+    "TREE_MANAGEMENT": {
+      "value": true
+    },
+    "ALLOCATION": {
+      "value": true
+    },
+    "FARMER_PROFILING": {
+      "value": true
+    },
+    "COMMUNITY_PROFILING": {
+      "value": true
+    },
+    "FORCE_LOGOUT_ON_401": {
+      "value": true
+    },
+    "USE_UNIVERSAL_ID": {
+      "value": true
+    },
+    "MIN_RECODING_TIME_MILLISECONDS": {
+      "value": 1000
+    },
+    "CREATE_WORKSHOPS": {
+      "value": false
+    },
+    "PURCHASE_VOICE_NOTE": {
+      "value": true
+    },
+    "RECEIPTS": {
+      "value": true
+    },
+    "NFC_CARD": {
+      "value": true
+    },
+    "RE_ISSUE_NFC_CARD": {
+      "value": false
+    }
   },
   "BF": {
-    "TRAINING": true,
-    "TREE_MANAGEMENT": false,
-    "ALLOCATION": false,
-    "FARMER_PROFILING": true,
-    "COMMUNITY_PROFILING": true,
-    "FORCE_LOGOUT_ON_401": true,
-    "USE_UNIVERSAL_ID": true,
-    "MIN_RECODING_TIME_MILLISECONDS": 5000,
-    "CREATE_WORKSHOPS": true,
-    "PURCHASE_VOICE_NOTE": false,
-    "RECEIPTS": false,
-    "NFC_CARD": true,
-    "RE_ISSUE_NFC_CARD": false
+    "TRAINING": {
+      "value": true
+    },
+    "TREE_MANAGEMENT": {
+      "value": false
+    },
+    "ALLOCATION": {
+      "value": false
+    },
+    "FARMER_PROFILING": {
+      "value": true
+    },
+    "COMMUNITY_PROFILING": {
+      "value": true
+    },
+    "FORCE_LOGOUT_ON_401": {
+      "value": true
+    },
+    "USE_UNIVERSAL_ID": {
+      "value": true
+    },
+    "MIN_RECODING_TIME_MILLISECONDS": {
+      "value": 5000
+    },
+    "CREATE_WORKSHOPS": {
+      "value": true
+    },
+    "PURCHASE_VOICE_NOTE": {
+      "value": false
+    },
+    "RECEIPTS": {
+      "value": false
+    },
+    "NFC_CARD": {
+      "value": true
+    },
+    "RE_ISSUE_NFC_CARD": {
+      "value": false
+    }
   }
 }
