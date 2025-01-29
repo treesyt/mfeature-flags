@@ -1,7 +1,7 @@
 {
     "GH": {
         "TRAINING": {
-            "value": false,
+            "VALUE": false,
             "TRUE_FOR": {
                 "REGION": [
                     1,
@@ -11,81 +11,81 @@
             }
         },
         "TREE_MANAGEMENT": {
-            "value": true
+            "VALUE": true
         },
         "ALLOCATION": {
-            "value": true
+            "VALUE": true
         },
         "FARMER_PROFILING": {
-            "value": true
+            "VALUE": true
         },
         "COMMUNITY_PROFILING": {
-            "value": true
+            "VALUE": true
         },
         "FORCE_LOGOUT_ON_401": {
-            "value": true
+            "VALUE": true
         },
         "USE_UNIVERSAL_ID": {
-            "value": true
+            "VALUE": true
         },
         "MIN_RECODING_TIME_MILLISECONDS": {
-            "value": 1000
+            "VALUE": 1000
         },
         "CREATE_WORKSHOPS": {
-            "value": false
+            "VALUE": false
         },
         "PURCHASE_VOICE_NOTE": {
-            "value": true
+            "VALUE": true
         },
         "RECEIPTS": {
-            "value": true
+            "VALUE": true
         },
         "NFC_CARD": {
-            "value": true
+            "VALUE": true
         },
         "RE_ISSUE_NFC_CARD": {
-            "value": false
+            "VALUE": false
         }
     },
     "BF": {
         "TRAINING": {
-            "value": true
+            "VALUE": true
         },
         "TREE_MANAGEMENT": {
-            "value": false
+            "VALUE": false
         },
         "ALLOCATION": {
-            "value": false
+            "VALUE": false
         },
         "FARMER_PROFILING": {
-            "value": true
+            "VALUE": true
         },
         "COMMUNITY_PROFILING": {
-            "value": true
+            "VALUE": true
         },
         "FORCE_LOGOUT_ON_401": {
-            "value": true
+            "VALUE": true
         },
         "USE_UNIVERSAL_ID": {
-            "value": true
+            "VALUE": true
         },
         "MIN_RECODING_TIME_MILLISECONDS": {
-            "value": 5000
+            "VALUE": 5000
         },
         "CREATE_WORKSHOPS": {
-            "value": true
+            "VALUE": true
         },
         "PURCHASE_VOICE_NOTE": {
-            "value": false
+            "VALUE": false
         },
         "RECEIPTS": {
-            "value": false
+            "VALUE": false
         },
         "NFC_CARD": {
-            "value": true
+            "VALUE": true
         },
         "RE_ISSUE_NFC_CARD": {
-            "value": false
+            "VALUE": false
         }
     }
 }
