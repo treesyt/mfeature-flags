@@ -11,7 +11,12 @@
             }
         },
         "GREEN_TRACKER": {
-            "VALUE": false
+            "VALUE": false,
+            "TRUE_FOR": {
+                "AGENT": [
+                    98
+                ]
+            }
         },
         "FARMER_SUPPORT": {
             "VALUE": true
