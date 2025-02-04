@@ -10,8 +10,8 @@
                 ]
             }
         },
-        "TREE_MANAGEMENT": {
-            "VALUE": true
+        "GREEN_TRACKER": {
+            "VALUE": false
         },
         "ALLOCATION": {
             "VALUE": true
