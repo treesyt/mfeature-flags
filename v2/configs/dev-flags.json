@@ -4,9 +4,7 @@
             "VALUE": false,
             "TRUE_FOR": {
                 "REGION": [
-                    1,
-                    2,
-                    3
+                    13
                 ]
             }
         },
@@ -14,7 +12,8 @@
             "VALUE": false,
             "TRUE_FOR": {
                 "AGENT": [
-                    98
+                    98,
+                    211
                 ]
             }
         },
@@ -56,10 +55,10 @@
         "TRAINING": {
             "VALUE": true
         },
-        "TREE_MANAGEMENT": {
+        "GREEN_TRACKER": {
             "VALUE": false
         },
-        "ALLOCATION": {
+        "FARMER_SUPPORT": {
             "VALUE": false
         },
         "FARMER_PROFILING": {

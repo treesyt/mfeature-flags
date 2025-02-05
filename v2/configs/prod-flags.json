@@ -44,10 +44,10 @@
         "TRAINING": {
             "VALUE": false
         },
-        "TREE_MANAGEMENT": {
+        "GREEN_TRACKER": {
             "VALUE": false
         },
-        "ALLOCATION": {
+        "FARMER_SUPPORT": {
             "VALUE": false
         },
         "FARMER_PROFILING": {
