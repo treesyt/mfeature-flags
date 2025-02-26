@@ -1,12 +1,7 @@
 {
     "GH": {
         "TRAINING": {
-            "VALUE": false,
-            "TRUE_FOR": {
-                "REGION": [
-                    13
-                ]
-            }
+            "VALUE": true
         },
         "GREEN_TRACKER": {
             "VALUE": false,
