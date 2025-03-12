@@ -44,6 +44,9 @@
         },
         "RE_ISSUE_NFC_CARD": {
             "VALUE": false
+        },
+        "FARMER_PROFILE_FLAGS": {
+            "VALUE": true
         }
     },
     "BF": {
