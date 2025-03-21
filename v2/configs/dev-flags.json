@@ -47,6 +47,9 @@
         },
         "FARMER_PROFILE_FLAGS": {
             "VALUE": true
+        },
+        "COMMUNITY_FLAGGING": {
+            "VALUE": true
         }
     },
     "BF": {
