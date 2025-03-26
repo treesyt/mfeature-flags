@@ -50,6 +50,9 @@
         },
         "COMMUNITY_FLAGGING": {
             "VALUE": true
+        },
+        "FARMER_SUPPORT_YEAR": {
+            "VALUE": 2025
         }
     },
     "BF": {
