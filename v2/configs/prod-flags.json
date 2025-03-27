@@ -41,6 +41,21 @@
         },
         "RE_ISSUE_NFC_CARD": {
             "VALUE": false
+        },
+        "FARMER_PROFILE_FLAGS": {
+            "VALUE": true
+        },
+        "COMMUNITY_FLAGGING": {
+            "VALUE": true
+        },
+        "FARMER_SUPPORT_YEAR": {
+            "VALUE": 2025
+        },
+        "FARMER_SUPPORT_PROGRESS": {
+            "VALUE": false
+        },
+        "FARMER_SUPPORT_RECOVERIES": {
+            "VALUE": false
         }
     },
     "BF": {
