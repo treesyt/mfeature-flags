@@ -101,5 +101,13 @@
         "RE_ISSUE_NFC_CARD": {
             "VALUE": false
         }
+    },
+    "MODULES": {
+        "PROFILING": [21],
+        "GREEN_TRACKER": [21],
+        "TRAINING": [21],
+        "FARMER_SUPPORT": [21],
+        "PURCHASES": [21],
+        "FORMS": [21]
     }
 }
