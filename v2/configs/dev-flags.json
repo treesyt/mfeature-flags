@@ -103,11 +103,11 @@
         }
     },
     "MODULES": {
-        "PROFILING": [],
+        "PROFILING": [21],
         "GREEN_TRACKER": [21,49],
-        "TRAINING": [21,49],
+        "TRAINING": [49],
         "FARMER_SUPPORT": [21],
-        "PURCHASES": [21],
+        "PURCHASES": [],
         "FORMS": [21]
     }
 }
