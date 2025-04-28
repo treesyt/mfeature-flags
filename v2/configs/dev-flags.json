@@ -59,6 +59,9 @@
         },
         "FARMER_SUPPORT_RECOVERIES": {
             "VALUE": true
+        },
+        "USER_PROFILE": {
+            "VALUE": true
         }
     },
     "BF": {
@@ -103,11 +106,11 @@
         }
     },
     "MODULES": {
-        "PROFILING": [],
+        "PROFILING": [21],
         "GREEN_TRACKER": [49],
         "TRAINING": [49],
-        "FARMER_SUPPORT": [],
-        "PURCHASES": [],
-        "FORMS": []
+        "FARMER_SUPPORT": [21],
+        "PURCHASES": [21],
+        "FORMS": [21]
     }
 }
