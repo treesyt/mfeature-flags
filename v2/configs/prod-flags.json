@@ -100,10 +100,10 @@
         }
     },
     "MODULES": {
-        "PROFILING": [21,30,68,69,71],
-        "GREEN_TRACKER": [21],
-        "TRAINING": [21,68,69,71],
-        "FARMER_SUPPORT": [21,68,69,71],
+        "PROFILING": [21,30,68,69,71,92],
+        "GREEN_TRACKER": [21,92],
+        "TRAINING": [21,68,69,71,92],
+        "FARMER_SUPPORT": [21,68,69,71,92],
         "PURCHASES": [21,30,68,69,71],
         "FORMS": [21,30,69,71]
     }
