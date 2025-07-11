@@ -1,0 +1,101 @@
+{
+    "FLAGS": {
+        "PROFILING": {
+            "VALUE": true,
+            "ORGANISATIONS": [21,30,68,69,71,92]
+        },
+        "TRAINING": {
+            "VALUE": true,
+            "ORGANISATIONS": [21,68,69,71,92]
+        },
+        "GREEN_TRACKER": {
+            "VALUE": true,
+            "ORGANISATIONS": [21,92]
+        },
+        "FARMER_SUPPORT": {
+            "VALUE": true,
+            "ORGANISATIONS": [21,68,69,71,92]
+        },
+        "PURCHASES": {
+            "VALUE": true,
+            "ORGANISATIONS": [21,30,68,69,71,92]
+        },
+        "FORMS": {
+            "VALUE": true,
+            "ORGANISATIONS": [21,30,69,71]
+        },
+        "FARMER_PROFILING": {
+            "VALUE": true
+        },
+        "COMMUNITY_PROFILING": {
+            "VALUE": true
+        },
+        "FORCE_LOGOUT_ON_401": {
+            "VALUE": true
+        },
+        "USE_UNIVERSAL_ID": {
+            "VALUE": true
+        },
+        "MIN_RECODING_TIME_MILLISECONDS": {
+            "VALUE": 5000
+        },
+        "CREATE_WORKSHOPS": {
+            "VALUE": false
+        },
+        "PURCHASE_VOICE_NOTE": {
+            "VALUE": true,
+            "ORGANISATIONS": [21,68,69,71]
+        },
+        "RECEIPTS": {
+            "VALUE": true,
+            "ORGANISATIONS": [21,68,69,71]
+        },
+        "NFC_CARD": {
+            "VALUE": false,
+            "ORGANISATIONS": [21]
+        },
+        "RE_ISSUE_NFC_CARD": {
+            "VALUE": false,
+            "ORGANISATIONS": [21]
+        },
+        "FARMER_PROFILE_FLAGS": {
+            "VALUE": true
+        },
+        "COMMUNITY_FLAGGING": {
+            "VALUE": true
+        },
+        "FARMER_SUPPORT_YEAR": {
+            "VALUE": 2025
+        },
+        "FARMER_SUPPORT_PROGRESS": {
+            "VALUE": false
+        },
+        "FARMER_SUPPORT_RECOVERIES": {
+            "VALUE": false
+        },
+        "USER_PROFILE": {
+            "VALUE": false,
+            "ORGANISATIONS": [21]
+        },
+        "ENFORCE_SUPPORT_RECOVERY": {
+            "VALUE": false,
+            "ORGANISATIONS": [21]
+        },
+        "USE_BLUETOOTH_SCALE": {
+            "VALUE": false,
+            "ORGANISATIONS": [21]
+        },
+        "USE_BARCODES": {
+            "VALUE": false,
+            "ORGANISATIONS": [21]
+        }
+    },
+    "MODULES": {
+        "PROFILING": [21,30,68,69,71,92],
+        "GREEN_TRACKER": [21,92],
+        "TRAINING": [21,68,69,71,92],
+        "FARMER_SUPPORT": [21,68,69,71,92],
+        "PURCHASES": [21,30,68,69,71],
+        "FORMS": [21,30,69,71]
+    }
+}
