@@ -99,7 +99,7 @@
     "FORMS": {
         "FARMER_PROFILING": {
             "21": ["CONSENT", "PERSONAL_INFO", "DUPLICATES"],
-            "70": ["CONSENT", "PERSONAL_INFO", "DUPLICATES"],
+            "70": ["CONSENT", "PERSONAL_INFO", "DUPLICATES", "FAMILY_INFO"],
             "97": ["CONSENT", "PERSONAL_INFO", "DUPLICATES"]
         }
     },
