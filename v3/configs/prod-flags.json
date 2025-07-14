@@ -44,7 +44,7 @@
         },
         "PURCHASE_VOICE_NOTE": {
             "VALUE": true,
-            "ORGANISATIONS": [68,69,71]
+            "ORGANISATIONS": [21,68,69,71]
         },
         "RECEIPTS": {
             "VALUE": true,
@@ -94,6 +94,12 @@
         "SHOW_GOOGLE_FORMS": {
             "VALUE": true,
             "ORGANISATIONS": [21]
+        }
+    },
+    "FORMS": {
+        "FARMER_PROFILING": {
+            "96": ["CONSENT", "PERSONAL_INFO", "DUPLICATES"],
+            "97": ["CONSENT", "PERSONAL_INFO", "DUPLICATES"]
         }
     },
     "MODULES": {
