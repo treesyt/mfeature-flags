@@ -2,7 +2,7 @@
     "FLAGS": {
         "PROFILING": {
             "VALUE": true,
-            "ORGANISATIONS": [21,30,68,69,71,92]
+            "ORGANISATIONS": [21,30,68,69,71,92,96,97]
         },
         "TRAINING": {
             "VALUE": true,
@@ -18,7 +18,7 @@
         },
         "PURCHASES": {
             "VALUE": true,
-            "ORGANISATIONS": [21,30,68,69,71,92]
+            "ORGANISATIONS": [21,30,68,69,71,92,96,97]
         },
         "FORMS": {
             "VALUE": true,
@@ -59,10 +59,12 @@
             "ORGANISATIONS": [21]
         },
         "FARMER_PROFILE_FLAGS": {
-            "VALUE": true
+            "VALUE": true,
+            "ORGANISATIONS": [21,30,68,69,71,92]
         },
         "COMMUNITY_FLAGGING": {
-            "VALUE": true
+            "VALUE": true,
+            "ORGANISATIONS": [21,30,68,69,71,92]
         },
         "FARMER_SUPPORT_YEAR": {
             "VALUE": 2025
