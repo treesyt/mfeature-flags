@@ -59,10 +59,12 @@
             "ORGANISATIONS": [21]
         },
         "FARMER_PROFILE_FLAGS": {
-            "VALUE": false
+            "VALUE": false,
+            "ORGANISATIONS": [21,30,68,69,71,92,96,97]
         },
         "COMMUNITY_FLAGGING": {
-            "VALUE": true
+            "VALUE": true,
+            "ORGANISATIONS": [21,30,68,69,71,92,96,97]
         },
         "FARMER_SUPPORT_YEAR": {
             "VALUE": 2025
@@ -92,6 +94,12 @@
         "SHOW_GOOGLE_FORMS": {
             "VALUE": true,
             "ORGANISATIONS": [21]
+        }
+    },
+    "FORMS": {
+        "FARMER_PROFILING": {
+            "21": ["CONSENT", "PERSONAL_INFO", "DUPLICATES"],
+            "97": ["CONSENT", "PERSONAL_INFO", "DUPLICATES"]
         }
     },
     "MODULES": {
