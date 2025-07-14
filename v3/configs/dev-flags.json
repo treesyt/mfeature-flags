@@ -2,27 +2,27 @@
     "FLAGS": {
         "PROFILING": {
             "VALUE": true,
-            "ORGANISATIONS": [21,30,68,69,71,92,96,97]
+            "ORGANISATIONS": [21,30,68,69,71,92,96,97,70]
         },
         "TRAINING": {
             "VALUE": true,
-            "ORGANISATIONS": [21,68,69,71,92]
+            "ORGANISATIONS": [68,69,71,92]
         },
         "GREEN_TRACKER": {
             "VALUE": true,
-            "ORGANISATIONS": [21,92]
+            "ORGANISATIONS": [92]
         },
         "FARMER_SUPPORT": {
             "VALUE": true,
-            "ORGANISATIONS": [21,68,69,71,92]
+            "ORGANISATIONS": [68,69,71,92]
         },
         "PURCHASES": {
             "VALUE": true,
-            "ORGANISATIONS": [21,30,68,69,71,92,96,97]
+            "ORGANISATIONS": [21,30,68,69,71,92,96,97,70]
         },
         "FORMS": {
             "VALUE": true,
-            "ORGANISATIONS": [21,30,69,71]
+            "ORGANISATIONS": [30,69,71]
         },
         "FARMER_PROFILING": {
             "VALUE": true
@@ -43,11 +43,11 @@
             "VALUE": false
         },
         "PURCHASE_VOICE_NOTE": {
-            "VALUE": true,
+            "VALUE": false,
             "ORGANISATIONS": [21,68,69,71]
         },
         "RECEIPTS": {
-            "VALUE": true,
+            "VALUE": false,
             "ORGANISATIONS": [21,68,69,71]
         },
         "NFC_CARD": {
@@ -63,7 +63,7 @@
             "ORGANISATIONS": [21,30,68,69,71,92,96,97]
         },
         "COMMUNITY_FLAGGING": {
-            "VALUE": true,
+            "VALUE": false,
             "ORGANISATIONS": [21,30,68,69,71,92,96,97]
         },
         "FARMER_SUPPORT_YEAR": {
@@ -99,6 +99,7 @@
     "FORMS": {
         "FARMER_PROFILING": {
             "21": ["CONSENT", "PERSONAL_INFO", "DUPLICATES"],
+            "70": ["CONSENT", "PERSONAL_INFO", "DUPLICATES"],
             "97": ["CONSENT", "PERSONAL_INFO", "DUPLICATES"]
         }
     },
