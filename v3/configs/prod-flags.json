@@ -44,7 +44,7 @@
         },
         "PURCHASE_VOICE_NOTE": {
             "VALUE": true,
-            "ORGANISATIONS": [21,68,69,71]
+            "ORGANISATIONS": [68,69,71]
         },
         "RECEIPTS": {
             "VALUE": true,
