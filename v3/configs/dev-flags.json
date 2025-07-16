@@ -88,8 +88,8 @@
             "ORGANISATIONS": [70]
         },
         "USE_BARCODES": {
-            "VALUE": false,
-            "ORGANISATIONS": [21]
+            "VALUE": true,
+            "ORGANISATIONS": [70]
         },
         "SHOW_GOOGLE_FORMS": {
             "VALUE": true,
