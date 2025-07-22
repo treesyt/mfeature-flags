@@ -73,7 +73,8 @@
             "VALUE": false
         },
         "FARMER_SUPPORT_RECOVERIES": {
-            "VALUE": false
+            "VALUE": true,
+            "ORGANISATIONS": [21]
         },
         "USER_PROFILE": {
             "VALUE": false,
