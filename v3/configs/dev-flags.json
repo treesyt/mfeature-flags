@@ -51,7 +51,7 @@
             "ORGANISATIONS": [21,68,69,71]
         },
         "NFC_CARD": {
-            "VALUE": false,
+            "VALUE": true,
             "ORGANISATIONS": [21]
         },
         "RE_ISSUE_NFC_CARD": {
