@@ -24,6 +24,10 @@
             "VALUE": true,
             "ORGANISATIONS": [21,30,69,71]
         },
+        "INVENTORY_MANAGEMENT": {
+            "VALUE": false,
+            "ORGANISATIONS": [21]
+        },
         "FARMER_PROFILING": {
             "VALUE": true
         },
