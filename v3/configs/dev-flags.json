@@ -51,7 +51,7 @@
             "ORGANISATIONS": [21,68,69,71]
         },
         "RECEIPTS": {
-            "VALUE": false,
+            "VALUE": true,
             "ORGANISATIONS": [21,68,69,71]
         },
         "NFC_CARD": {
