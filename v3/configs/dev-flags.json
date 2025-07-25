@@ -94,7 +94,7 @@
         },
         "USE_BARCODES": {
             "VALUE": true,
-            "ORGANISATIONS": [70]
+            "ORGANISATIONS": [21,70]
         },
         "SHOW_GOOGLE_FORMS": {
             "VALUE": true,
