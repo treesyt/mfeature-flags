@@ -90,11 +90,11 @@
         },
         "USE_BLUETOOTH_SCALE": {
             "VALUE": true,
-            "ORGANISATIONS": [21,70]
+            "ORGANISATIONS": [21]
         },
         "USE_BARCODES": {
             "VALUE": true,
-            "ORGANISATIONS": [21,70]
+            "ORGANISATIONS": [21]
         },
         "SHOW_GOOGLE_FORMS": {
             "VALUE": true,
