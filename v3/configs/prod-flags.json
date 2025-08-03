@@ -98,6 +98,9 @@
         "SHOW_GOOGLE_FORMS": {
             "VALUE": true,
             "ORGANISATIONS": [21]
+        },
+        "NO_PURCHASE_FROM_OWING_COMMUNITY": {
+            "VALUE": true
         }
     },
     "FORMS": {
