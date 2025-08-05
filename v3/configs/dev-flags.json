@@ -101,7 +101,8 @@
             "ORGANISATIONS": [21]
         },
         "NO_PURCHASE_FROM_OWING_COMMUNITY": {
-            "VALUE": true
+            "VALUE": true,
+            "ORGANISATIONS": [21]
         }
     },
     "FORMS": {
