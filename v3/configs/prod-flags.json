@@ -102,6 +102,9 @@
         "NO_PURCHASE_FROM_OWING_COMMUNITY": {
             "VALUE": true,
             "ORGANISATIONS": [21]
+        },
+        "SEEDLING_ASSIGNMENT_SYNC_CHUNK_SIZE": {
+            "VALUE": 250
         }
     },
     "FORMS": {
