@@ -104,7 +104,7 @@
             "ORGANISATIONS": [21]
         },
         "SEEDLING_ASSIGNMENT_SYNC_CHUNK_SIZE": {
-            "VALUE": 250
+            "VALUE": 150
         }
     },
     "FORMS": {
