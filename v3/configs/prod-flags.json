@@ -2,11 +2,11 @@
     "FLAGS": {
         "PROFILING": {
             "VALUE": true,
-            "ORGANISATIONS": [21,30,68,69,71,92,96,97]
+            "ORGANISATIONS": [21,30,68,69,71,92,96,97,108]
         },
         "TRAINING": {
             "VALUE": true,
-            "ORGANISATIONS": [21,68,69,71,92]
+            "ORGANISATIONS": [21,68,69,71,92,108]
         },
         "GREEN_TRACKER": {
             "VALUE": true,
@@ -22,7 +22,7 @@
         },
         "FORMS": {
             "VALUE": true,
-            "ORGANISATIONS": [21,30,69,71,92]
+            "ORGANISATIONS": [21,30,69,71,92,108]
         },
         "INVENTORY_MANAGEMENT": {
             "VALUE": false,
