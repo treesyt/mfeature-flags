@@ -2,15 +2,15 @@
     "FLAGS": {
         "PROFILING": {
             "VALUE": true,
-            "ORGANISATIONS": [21,30,68,69,71,92,96,97,108]
+            "ORGANISATIONS": [21,30,68,69,71,92,96,97,98,108]
         },
         "TRAINING": {
             "VALUE": true,
-            "ORGANISATIONS": [21,68,69,71,92,108]
+            "ORGANISATIONS": [21,68,69,71,92,98,108]
         },
         "GREEN_TRACKER": {
             "VALUE": true,
-            "ORGANISATIONS": [21,92]
+            "ORGANISATIONS": [21,92,98]
         },
         "FARMER_SUPPORT": {
             "VALUE": true,
@@ -22,7 +22,7 @@
         },
         "FORMS": {
             "VALUE": true,
-            "ORGANISATIONS": [21,30,69,71,92,108]
+            "ORGANISATIONS": [21,30,69,71,92,98,108]
         },
         "INVENTORY_MANAGEMENT": {
             "VALUE": false,
