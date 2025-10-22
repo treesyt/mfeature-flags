@@ -1,31 +1,31 @@
 {
     "FLAGS": {
         "PROFILING": {
-            "VALUE": false,
+            "VALUE": true,
             "ORGANISATIONS": [21,70]
         },
         "TRAINING": {
-            "VALUE": false,
+            "VALUE": true,
             "ORGANISATIONS": [21,70]
         },
         "GREEN_TRACKER": {
-            "VALUE": false,
+            "VALUE": true,
             "ORGANISATIONS": [21,70]
         },
         "FARMER_SUPPORT": {
-            "VALUE": false,
+            "VALUE": true,
             "ORGANISATIONS": [21,70]
         },
         "PURCHASES": {
-            "VALUE": false,
+            "VALUE": true,
             "ORGANISATIONS": [21,70]
         },
         "FORMS": {
-            "VALUE": false,
+            "VALUE": true,
             "ORGANISATIONS": [21,70]
         },
         "INVENTORY_MANAGEMENT": {
-            "VALUE": false,
+            "VALUE": true,
             "ORGANISATIONS": [21,70]
         },
         "FARMER_PROFILING": {
