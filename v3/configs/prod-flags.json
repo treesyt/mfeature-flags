@@ -80,7 +80,7 @@
             "VALUE": false
         },
         "USER_PROFILE": {
-            "VALUE": false,
+            "VALUE": true,
             "ORGANISATIONS": [21]
         },
         "ENFORCE_SUPPORT_RECOVERY": {
