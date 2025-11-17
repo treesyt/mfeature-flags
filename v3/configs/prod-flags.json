@@ -52,7 +52,7 @@
         },
         "RECEIPTS": {
             "VALUE": true,
-            "ORGANISATIONS": [68,69,71]
+            "ORGANISATIONS": [21,68,69,71]
         },
         "NFC_CARD": {
             "VALUE": false,
