@@ -48,11 +48,11 @@
         },
         "PURCHASE_VOICE_NOTE": {
             "VALUE": true,
-            "ORGANISATIONS": [21]
+            "ORGANISATIONS": [21,81]
         },
         "RECEIPTS": {
             "VALUE": true,
-            "ORGANISATIONS": [21,70]
+            "ORGANISATIONS": [21,70,81]
         },
         "NFC_CARD": {
             "VALUE": true,
