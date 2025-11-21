@@ -97,7 +97,7 @@
             "ORGANISATIONS": [21,81]
         },
         "SHOW_GOOGLE_FORMS": {
-            "VALUE": false,
+            "VALUE": true,
             "ORGANISATIONS": [21]
         },
         "NO_PURCHASE_FROM_OWING_COMMUNITY": {
