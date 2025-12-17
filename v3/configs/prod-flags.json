@@ -14,7 +14,7 @@
         },
         "FARMER_SUPPORT": {
             "VALUE": true,
-            "ORGANISATIONS": [68,69,71,92,98]
+            "ORGANISATIONS": [21,68,69,71,92,98]
         },
         "PURCHASES": {
             "VALUE": true,
