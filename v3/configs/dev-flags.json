@@ -4,7 +4,7 @@
             "VALUE": true,
             "ORGANISATIONS": [21,70,81],
             "FALSE_FOR": {
-                "AGENT": [60]
+                "AGENT": [208]
             }
         },
         "TRAINING": {
@@ -13,7 +13,10 @@
         },
         "GREEN_TRACKER": {
             "VALUE": false,
-            "ORGANISATIONS": [21,70]
+            "ORGANISATIONS": [21,70],
+            "TRUE_FOR": {
+                "AGENT": [208]
+            }
         },
         "FARMER_SUPPORT": {
             "VALUE": false,
