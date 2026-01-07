@@ -88,8 +88,11 @@
             "ORGANISATIONS": [21]
         },
         "USE_BLUETOOTH_SCALE": {
-            "VALUE": false,
-            "ORGANISATIONS": [21]
+            "VALUE": true,
+            "ORGANISATIONS": [21],
+            "FALSE_FOR": {
+                "AGENT": [330]
+            }
         },
         "USE_BARCODES": {
             "VALUE": true,
