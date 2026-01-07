@@ -9,11 +9,11 @@
             "ORGANISATIONS": [21,70]
         },
         "GREEN_TRACKER": {
-            "VALUE": true,
+            "VALUE": false,
             "ORGANISATIONS": [21,70]
         },
         "FARMER_SUPPORT": {
-            "VALUE": true,
+            "VALUE": false,
             "ORGANISATIONS": [21,70]
         },
         "PURCHASES": {
@@ -25,7 +25,7 @@
             "ORGANISATIONS": [21,70]
         },
         "INVENTORY_MANAGEMENT": {
-            "VALUE": true,
+            "VALUE": false,
             "ORGANISATIONS": [21,70,81]
         },
         "FARMER_PROFILING": {
