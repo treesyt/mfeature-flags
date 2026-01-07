@@ -2,7 +2,10 @@
     "FLAGS": {
         "PROFILING": {
             "VALUE": true,
-            "ORGANISATIONS": [21,70,81]
+            "ORGANISATIONS": [21,70,81],
+            "FALSE_FOR": {
+                "AGENT": [60]
+            }
         },
         "TRAINING": {
             "VALUE": true,
