@@ -63,7 +63,7 @@
             "ORGANISATIONS": [21]
         },
         "FARMER_PROFILE_FLAGS": {
-            "VALUE": false,
+            "VALUE": true,
             "ORGANISATIONS": [21,70]
         },
         "COMMUNITY_FLAGGING": {
@@ -89,15 +89,15 @@
             "ORGANISATIONS": [21]
         },
         "USE_BLUETOOTH_SCALE": {
-            "VALUE": false,
+            "VALUE": true,
             "ORGANISATIONS": [21]
         },
         "USE_BARCODES": {
-            "VALUE": false,
+            "VALUE": true,
             "ORGANISATIONS": [21,81]
         },
         "SHOW_GOOGLE_FORMS": {
-            "VALUE": false,
+            "VALUE": true,
             "ORGANISATIONS": [21]
         },
         "NO_PURCHASE_FROM_OWING_COMMUNITY": {
