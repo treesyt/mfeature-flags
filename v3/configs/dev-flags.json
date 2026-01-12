@@ -31,7 +31,7 @@
             "VALUE": false,
             "ORGANISATIONS": [21,70,81],
             "TRUE_FOR": {
-                "AGENT": [208]
+                "AGENT": [208, 98]
             }
         },
         "FARMER_PROFILING": {
@@ -115,6 +115,9 @@
         },
         "SEEDLING_ASSIGNMENT_SYNC_CHUNK_SIZE": {
             "VALUE": 250
+        },
+        "REPORT_DUPLICATE_NETWORK_ERRORS": {
+            "VALUE": true
         }
     },
     "FORMS": {
