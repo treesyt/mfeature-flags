@@ -31,7 +31,7 @@
             "VALUE": false,
             "ORGANISATIONS": [21,70,81],
             "TRUE_FOR": {
-                "AGENT": [208, 98]
+                "AGENT": [208,98,405]
             }
         },
         "FARMER_PROFILING": {
