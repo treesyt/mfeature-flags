@@ -58,7 +58,10 @@
         },
         "RECEIPTS": {
             "VALUE": true,
-            "ORGANISATIONS": [21,70,81]
+            "ORGANISATIONS": [21,70,81],
+            "FALSE_FOR": {
+                "AGENT": [208]
+            }
         },
         "NFC_CARD": {
             "VALUE": true,
@@ -103,7 +106,10 @@
         },
         "USE_BARCODES": {
             "VALUE": true,
-            "ORGANISATIONS": [21,81]
+            "ORGANISATIONS": [21,81],
+            "FALSE_FOR": {
+                "AGENT": [208]
+            }
         },
         "SHOW_GOOGLE_FORMS": {
             "VALUE": true,
