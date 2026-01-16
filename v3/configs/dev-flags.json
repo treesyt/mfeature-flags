@@ -58,10 +58,7 @@
         },
         "RECEIPTS": {
             "VALUE": true,
-            "ORGANISATIONS": [21,70,81],
-            "FALSE_FOR": {
-                "AGENT": [208]
-            }
+            "ORGANISATIONS": [21,70,81]
         },
         "NFC_CARD": {
             "VALUE": true,
