@@ -17,7 +17,10 @@
         },
         "FARMER_SUPPORT": {
             "VALUE": false,
-            "ORGANISATIONS": [21,70]
+            "ORGANISATIONS": [21,70],
+            "TRUE_FOR": {
+                "AGENT": [447]
+            }
         },
         "PURCHASES": {
             "VALUE": true,
