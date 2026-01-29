@@ -91,7 +91,7 @@
             "VALUE": true,
             "ORGANISATIONS": [21],
             "FALSE_FOR": {
-                "AGENT": [330]
+                "AGENT": [330,244]
             }
         },
         "USE_BARCODES": {
