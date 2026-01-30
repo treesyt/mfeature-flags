@@ -98,7 +98,7 @@
             "ORGANISATIONS": [21]
         },
         "USE_BLUETOOTH_SCALE": {
-            "VALUE": false,
+            "VALUE": true,
             "ORGANISATIONS": [21],
             "FALSE_FOR": {
                 "AGENT": [208]
@@ -106,7 +106,10 @@
         },
         "USE_BARCODES": {
             "VALUE": true,
-            "ORGANISATIONS": [21,81]
+            "ORGANISATIONS": [21,81],
+            "FALSE_FOR": {
+                "AGENT": [208]
+            }
         },
         "SHOW_GOOGLE_FORMS": {
             "VALUE": true,
