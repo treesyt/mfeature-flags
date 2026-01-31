@@ -64,10 +64,7 @@
         },
         "FARMER_PROFILE_FLAGS": {
             "VALUE": true,
-            "ORGANISATIONS": [21,30,68,69,71,92],
-            "FALSE_FOR": {
-                "AGENT": [244]
-            }
+            "ORGANISATIONS": [21,30,68,69,71,92]
         },
         "COMMUNITY_FLAGGING": {
             "VALUE": true,
@@ -94,7 +91,7 @@
             "VALUE": true,
             "ORGANISATIONS": [21],
             "FALSE_FOR": {
-                "AGENT": [330,244]
+                "AGENT": [330]
             }
         },
         "USE_BARCODES": {
@@ -111,6 +108,9 @@
         },
         "SEEDLING_ASSIGNMENT_SYNC_CHUNK_SIZE": {
             "VALUE": 50
+        },
+        "PURCHASE_SYNC_CHUNK_SIZE": {
+            "VALUE": 10
         }
     },
     "FORMS": {

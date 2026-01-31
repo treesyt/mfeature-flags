@@ -124,6 +124,9 @@
         },
         "REPORT_DUPLICATE_NETWORK_ERRORS": {
             "VALUE": true
+        },
+        "PURCHASE_SYNC_CHUNK_SIZE": {
+            "VALUE": 10
         }
     },
     "FORMS": {
