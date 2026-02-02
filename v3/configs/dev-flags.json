@@ -9,11 +9,8 @@
             "ORGANISATIONS": [21,70]
         },
         "GREEN_TRACKER": {
-            "VALUE": false,
-            "ORGANISATIONS": [21,70],
-            "TRUE_FOR": {
-                "AGENT": [448,451,208,211,272]
-            }
+            "VALUE": true,
+            "ORGANISATIONS": [21,70]
         },
         "FARMER_SUPPORT": {
             "VALUE": false,
@@ -127,6 +124,21 @@
         },
         "PURCHASE_SYNC_CHUNK_SIZE": {
             "VALUE": 10
+        },
+        "SEEDLING_MONITORING_SYNC_CHUNK_SIZE": {
+            "VALUE": 20
+        },
+        "SEEDLING_MONITORING_IMAGE_SYNC_CHUNK_SIZE": {
+            "VALUE": 5
+        },
+        "PURCHASE_WITH_OCR_SYNC_CHUNK_SIZE": {
+            "VALUE": 3
+        },
+        "NURSERY_SEEDLING_ASSIGNMENT": {
+            "VALUE": false
+        },
+        "NURSERY_MANAGEMENT": {
+            "VALUE": false
         }
     },
     "FORMS": {

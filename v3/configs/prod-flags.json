@@ -111,6 +111,21 @@
         },
         "PURCHASE_SYNC_CHUNK_SIZE": {
             "VALUE": 10
+        },
+        "SEEDLING_MONITORING_SYNC_CHUNK_SIZE": {
+            "VALUE": 50
+        },
+        "SEEDLING_MONITORING_IMAGE_SYNC_CHUNK_SIZE": {
+            "VALUE": 5
+        },
+        "PURCHASE_WITH_OCR_SYNC_CHUNK_SIZE": {
+            "VALUE": 3
+        },
+        "NURSERY_SEEDLING_ASSIGNMENT": {
+            "VALUE": false
+        },
+        "NURSERY_MANAGEMENT": {
+            "VALUE": false
         }
     },
     "FORMS": {
