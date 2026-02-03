@@ -102,7 +102,7 @@
             }
         },
         "USE_BARCODES": {
-            "VALUE": true,
+            "VALUE": false,
             "ORGANISATIONS": [21,81],
             "FALSE_FOR": {
                 "AGENT": [208]
