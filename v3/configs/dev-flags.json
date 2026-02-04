@@ -9,8 +9,11 @@
             "ORGANISATIONS": [21,70]
         },
         "GREEN_TRACKER": {
-            "VALUE": true,
-            "ORGANISATIONS": [21,70]
+            "VALUE": false,
+            "ORGANISATIONS": [21,70],
+            "TRUE_FOR": {
+                "APP_VERSION": ["6.3.0"]
+            }
         },
         "FARMER_SUPPORT": {
             "VALUE": false,
