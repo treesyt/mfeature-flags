@@ -140,7 +140,7 @@
         "NURSERY_MANAGEMENT": {
             "VALUE": false,
             "TRUE_FOR": {
-                "AGENT": [208]
+                "APP_VERSION": ["6.2.1"]
             }
         },
         "RECORD_DATE_FOR_DEAD_SEEDLINGS": {
