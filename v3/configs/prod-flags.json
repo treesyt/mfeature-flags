@@ -10,7 +10,10 @@
         },
         "GREEN_TRACKER": {
             "VALUE": false,
-            "ORGANISATIONS": [21,92,98]
+            "ORGANISATIONS": [21,92,98],
+            "TRUE_FOR": {
+                "APP_VERSION": ["6.3.0"]
+            }
         },
         "FARMER_SUPPORT": {
             "VALUE": false,
@@ -125,6 +128,9 @@
             "VALUE": false
         },
         "NURSERY_MANAGEMENT": {
+            "VALUE": false
+        },
+        "RECORD_DATE_FOR_DEAD_SEEDLINGS": {
             "VALUE": false
         }
     },

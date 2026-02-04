@@ -142,6 +142,9 @@
             "TRUE_FOR": {
                 "AGENT": [208]
             }
+        },
+        "RECORD_DATE_FOR_DEAD_SEEDLINGS": {
+            "VALUE": true
         }
     },
     "FORMS": {
