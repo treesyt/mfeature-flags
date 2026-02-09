@@ -9,11 +9,8 @@
             "ORGANISATIONS": [21,70]
         },
         "GREEN_TRACKER": {
-            "VALUE": false,
-            "ORGANISATIONS": [21,70],
-            "TRUE_FOR": {
-                "AGENT": [208]
-            }
+            "VALUE": true,
+            "ORGANISATIONS": [21,70]
         },
         "FARMER_SUPPORT": {
             "VALUE": false,
