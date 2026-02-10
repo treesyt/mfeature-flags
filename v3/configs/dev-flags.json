@@ -1,150 +1,170 @@
 {
-    "FLAGS": {
-        "PROFILING": {
-            "VALUE": true,
-            "ORGANISATIONS": [21,70,81]
-        },
-        "TRAINING": {
-            "VALUE": true,
-            "ORGANISATIONS": [21,70]
-        },
-        "GREEN_TRACKER": {
-            "VALUE": true,
-            "ORGANISATIONS": [21,70]
-        },
-        "FARMER_SUPPORT": {
-            "VALUE": false,
-            "ORGANISATIONS": [21,70],
-            "TRUE_FOR": {
-                "AGENT": [447,208,431]
-            }
-        },
-        "PURCHASES": {
-            "VALUE": true,
-            "ORGANISATIONS": [21,70,81]
-        },
-        "FORMS": {
-            "VALUE": true,
-            "ORGANISATIONS": [21,70]
-        },
-        "INVENTORY_MANAGEMENT": {
-            "VALUE": false,
-            "ORGANISATIONS": [21,70,81],
-            "TRUE_FOR": {
-                "AGENT": [208,98,405,211]
-            }
-        },
-        "FARMER_PROFILING": {
-            "VALUE": true
-        },
-        "COMMUNITY_PROFILING": {
-            "VALUE": true
-        },
-        "FORCE_LOGOUT_ON_401": {
-            "VALUE": true
-        },
-        "USE_UNIVERSAL_ID": {
-            "VALUE": true
-        },
-        "MIN_RECODING_TIME_MILLISECONDS": {
-            "VALUE": 1000
-        },
-        "CREATE_WORKSHOPS": {
-            "VALUE": false
-        },
-        "PURCHASE_VOICE_NOTE": {
-            "VALUE": true,
-            "ORGANISATIONS": [21,81]
-        },
-        "RECEIPTS": {
-            "VALUE": true,
-            "ORGANISATIONS": [21,70,81]
-        },
-        "NFC_CARD": {
-            "VALUE": true,
-            "ORGANISATIONS": [21,70]
-        },
-        "RE_ISSUE_NFC_CARD": {
-            "VALUE": false,
-            "ORGANISATIONS": [21]
-        },
-        "FARMER_PROFILE_FLAGS": {
-            "VALUE": true,
-            "ORGANISATIONS": [21,70]
-        },
-        "COMMUNITY_FLAGGING": {
-            "VALUE": true,
-            "ORGANISATIONS": [21,70]
-        },
-        "FARMER_SUPPORT_YEAR": {
-            "VALUE": 2025
-        },
-        "FARMER_SUPPORT_PROGRESS": {
-            "VALUE": true
-        },
-        "FARMER_SUPPORT_RECOVERIES": {
-            "VALUE": true,
-            "ORGANISATIONS": [21,70]
-        },
-        "USER_PROFILE": {
-            "VALUE": true,
-            "ORGANISATIONS": [21,70]
-        },
-        "ENFORCE_SUPPORT_RECOVERY": {
-            "VALUE": false,
-            "ORGANISATIONS": [21]
-        },
-        "USE_BLUETOOTH_SCALE": {
-            "VALUE": true,
-            "ORGANISATIONS": [21]
-        },
-        "USE_BARCODES": {
-            "VALUE": true,
-            "ORGANISATIONS": [21,81]
-        },
-        "SHOW_GOOGLE_FORMS": {
-            "VALUE": true,
-            "ORGANISATIONS": [21]
-        },
-        "NO_PURCHASE_FROM_OWING_COMMUNITY": {
-            "VALUE": true,
-            "ORGANISATIONS": [21]
-        },
-        "SEEDLING_ASSIGNMENT_SYNC_CHUNK_SIZE": {
-            "VALUE": 250
-        },
-        "REPORT_DUPLICATE_NETWORK_ERRORS": {
-            "VALUE": true
-        },
-        "PURCHASE_SYNC_CHUNK_SIZE": {
-            "VALUE": 10
-        },
-        "SEEDLING_MONITORING_SYNC_CHUNK_SIZE": {
-            "VALUE": 20
-        },
-        "SEEDLING_MONITORING_IMAGE_SYNC_CHUNK_SIZE": {
-            "VALUE": 5
-        },
-        "PURCHASE_WITH_OCR_SYNC_CHUNK_SIZE": {
-            "VALUE": 3
-        },
-        "NURSERY_SEEDLING_ASSIGNMENT": {
-            "VALUE": false
-        },
-        "NURSERY_MANAGEMENT": {
-            "VALUE": false,
-            "TRUE_FOR": {
-                "AGENT": [208]
-            }
-        },
-        "RECORD_DATE_FOR_DEAD_SEEDLINGS": {
-            "VALUE": true
-        }
+  "FLAGS": {
+    "PROFILING": {
+      "VALUE": true,
+      "ORGANISATIONS": [21, 70, 81]
+    },
+    "TRAINING": {
+      "VALUE": true,
+      "ORGANISATIONS": [21, 70]
+    },
+    "GREEN_TRACKER": {
+      "VALUE": true,
+      "ORGANISATIONS": [21, 70]
+    },
+    "FARMER_SUPPORT": {
+      "VALUE": false,
+      "ORGANISATIONS": [21, 70],
+      "TRUE_FOR": {
+        "AGENT": [447, 208, 431]
+      }
+    },
+    "PURCHASES": {
+      "VALUE": true,
+      "ORGANISATIONS": [21, 70, 81]
     },
     "FORMS": {
-        "FARMER_PROFILING": {
-            "70": ["CONSENT", "PERSONAL_INFO", "DUPLICATES", "FAMILY_INFO"],
-            "97": ["CONSENT", "PERSONAL_INFO", "DUPLICATES"]
-        }
+      "VALUE": true,
+      "ORGANISATIONS": [21, 70]
+    },
+    "INVENTORY_MANAGEMENT": {
+      "VALUE": false,
+      "ORGANISATIONS": [21, 70, 81],
+      "TRUE_FOR": {
+        "AGENT": [208, 98, 405, 211]
+      }
+    },
+    "FARMER_PROFILING": {
+      "VALUE": true
+    },
+    "COMMUNITY_PROFILING": {
+      "VALUE": true
+    },
+    "FORCE_LOGOUT_ON_401": {
+      "VALUE": true
+    },
+    "USE_UNIVERSAL_ID": {
+      "VALUE": true
+    },
+    "MIN_RECODING_TIME_MILLISECONDS": {
+      "VALUE": 1000
+    },
+    "CREATE_WORKSHOPS": {
+      "VALUE": false
+    },
+    "PURCHASE_VOICE_NOTE": {
+      "VALUE": true,
+      "ORGANISATIONS": [21, 81]
+    },
+    "RECEIPTS": {
+      "VALUE": true,
+      "ORGANISATIONS": [21, 70, 81]
+    },
+    "NFC_CARD": {
+      "VALUE": true,
+      "ORGANISATIONS": [21, 70]
+    },
+    "RE_ISSUE_NFC_CARD": {
+      "VALUE": false,
+      "ORGANISATIONS": [21]
+    },
+    "NFC_FOR_FARMER_SUPPORT": {
+      "VALUE": true,
+      "ORGANISATIONS": [21]
+    },
+    "NFC_FOR_TRAINING": {
+      "VALUE": true,
+      "ORGANISATIONS": [21]
+    },
+    "NFC_FOR_SEEDLING_ASSIGNMENT": {
+      "VALUE": true,
+      "ORGANISATIONS": [21]
+    },
+    "NFC_FOR_PURCHASES": {
+      "VALUE": true,
+      "ORGANISATIONS": [21]
+    },
+    "NFC_FOR_GROUP_MEMBERSHIP": {
+      "VALUE": true,
+      "ORGANISATIONS": [21]
+    },
+    "FARMER_PROFILE_FLAGS": {
+      "VALUE": true,
+      "ORGANISATIONS": [21, 70]
+    },
+    "COMMUNITY_FLAGGING": {
+      "VALUE": true,
+      "ORGANISATIONS": [21, 70]
+    },
+    "FARMER_SUPPORT_YEAR": {
+      "VALUE": 2025
+    },
+    "FARMER_SUPPORT_PROGRESS": {
+      "VALUE": true
+    },
+    "FARMER_SUPPORT_RECOVERIES": {
+      "VALUE": true,
+      "ORGANISATIONS": [21, 70]
+    },
+    "USER_PROFILE": {
+      "VALUE": true,
+      "ORGANISATIONS": [21, 70]
+    },
+    "ENFORCE_SUPPORT_RECOVERY": {
+      "VALUE": false,
+      "ORGANISATIONS": [21]
+    },
+    "USE_BLUETOOTH_SCALE": {
+      "VALUE": true,
+      "ORGANISATIONS": [21]
+    },
+    "USE_BARCODES": {
+      "VALUE": true,
+      "ORGANISATIONS": [21, 81]
+    },
+    "SHOW_GOOGLE_FORMS": {
+      "VALUE": true,
+      "ORGANISATIONS": [21]
+    },
+    "NO_PURCHASE_FROM_OWING_COMMUNITY": {
+      "VALUE": true,
+      "ORGANISATIONS": [21]
+    },
+    "SEEDLING_ASSIGNMENT_SYNC_CHUNK_SIZE": {
+      "VALUE": 250
+    },
+    "REPORT_DUPLICATE_NETWORK_ERRORS": {
+      "VALUE": true
+    },
+    "PURCHASE_SYNC_CHUNK_SIZE": {
+      "VALUE": 10
+    },
+    "SEEDLING_MONITORING_SYNC_CHUNK_SIZE": {
+      "VALUE": 20
+    },
+    "SEEDLING_MONITORING_IMAGE_SYNC_CHUNK_SIZE": {
+      "VALUE": 5
+    },
+    "PURCHASE_WITH_OCR_SYNC_CHUNK_SIZE": {
+      "VALUE": 3
+    },
+    "NURSERY_SEEDLING_ASSIGNMENT": {
+      "VALUE": false
+    },
+    "NURSERY_MANAGEMENT": {
+      "VALUE": false,
+      "TRUE_FOR": {
+        "AGENT": [208]
+      }
+    },
+    "RECORD_DATE_FOR_DEAD_SEEDLINGS": {
+      "VALUE": true
     }
+  },
+  "FORMS": {
+    "FARMER_PROFILING": {
+      "70": ["CONSENT", "PERSONAL_INFO", "DUPLICATES", "FAMILY_INFO"],
+      "97": ["CONSENT", "PERSONAL_INFO", "DUPLICATES"]
+    }
+  }
 }
