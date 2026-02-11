@@ -152,7 +152,7 @@
       "VALUE": false
     },
     "NURSERY_MANAGEMENT": {
-      "VALUE": false,
+      "VALUE": true,
       "TRUE_FOR": {
         "APP_VERSION": ["6.4.0"]
       }
