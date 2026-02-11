@@ -65,7 +65,7 @@
       "ORGANISATIONS": [21, 70]
     },
     "RE_ISSUE_NFC_CARD": {
-      "VALUE": false,
+      "VALUE": true,
       "ORGANISATIONS": [21]
     },
     "NFC_FOR_FARMER_SUPPORT": {
@@ -154,7 +154,7 @@
     "NURSERY_MANAGEMENT": {
       "VALUE": false,
       "TRUE_FOR": {
-        "AGENT": [208]
+        "APP_VERSION": ["6.4.0"]
       }
     },
     "RECORD_DATE_FOR_DEAD_SEEDLINGS": {
