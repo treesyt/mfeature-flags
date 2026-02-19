@@ -12,7 +12,7 @@
       "VALUE": false,
       "ORGANISATIONS": [21, 92, 98],
       "TRUE_FOR": {
-        "APP_VERSION": ["6.3.0"]
+        "APP_VERSION": ["6.3.0","6.4.4"]
       }
     },
     "FARMER_SUPPORT": {
@@ -148,7 +148,10 @@
       "VALUE": false
     },
     "NURSERY_MANAGEMENT": {
-      "VALUE": false
+      "VALUE": false,
+      "TRUE_FOR": {
+        "APP_VERSION": ["6.4.4"]
+      }
     },
     "RECORD_DATE_FOR_DEAD_SEEDLINGS": {
       "VALUE": false
