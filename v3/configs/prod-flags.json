@@ -25,7 +25,7 @@
     },
     "FORMS": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 30, 69, 71, 92, 95, 98, 108]
+      "ORGANISATIONS": [21, 30, 69, 71, 92, 95, 98, 108, 117]
     },
     "INVENTORY_MANAGEMENT": {
       "VALUE": false,
