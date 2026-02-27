@@ -33,6 +33,9 @@
         "AGENT": [208, 98, 405, 211]
       }
     },
+    "INVENTORY_PRE":{
+      "VALUE": true
+    },
     "FARMER_PROFILING": {
       "VALUE": true
     },

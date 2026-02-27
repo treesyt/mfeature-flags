@@ -31,6 +31,9 @@
       "VALUE": false,
       "ORGANISATIONS": [21]
     },
+    "INVENTORY_PRE":{
+      "VALUE": false
+    },
     "FARMER_PROFILING": {
       "VALUE": true
     },
