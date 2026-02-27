@@ -2,11 +2,11 @@
   "FLAGS": {
     "PROFILING": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 30, 68, 69, 71, 92, 95, 96, 97, 98, 108]
+      "ORGANISATIONS": [21, 30, 68, 69, 71, 92, 95, 96, 97, 98, 108, 117]
     },
     "TRAINING": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 68, 69, 71, 92, 95, 98, 108]
+      "ORGANISATIONS": [21, 68, 69, 71, 92, 95, 98, 108, 117]
     },
     "GREEN_TRACKER": {
       "VALUE": false,
