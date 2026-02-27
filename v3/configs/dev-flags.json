@@ -27,14 +27,10 @@
       "VALUE": true
     },
     "INVENTORY_MANAGEMENT": {
-      "VALUE": false,
-      "ORGANISATIONS": [21, 70, 81],
-      "TRUE_FOR": {
-        "AGENT": [208, 98, 405, 211]
-      }
+      "VALUE": true
     },
     "INVENTORY_PRE":{
-      "VALUE": true
+      "VALUE": false
     },
     "FARMER_PROFILING": {
       "VALUE": true
