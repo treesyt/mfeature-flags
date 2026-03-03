@@ -30,7 +30,7 @@
       "VALUE": true
     },
     "INVENTORY_PRE":{
-      "VALUE": false
+      "VALUE": true
     },
     "FARMER_PROFILING": {
       "VALUE": true
