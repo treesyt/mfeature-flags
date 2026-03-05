@@ -106,7 +106,10 @@
     },
     "FARMER_PROFILE_FLAGS": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 70]
+      "ORGANISATIONS": [21, 70],
+      "FALSE_FOR": {
+        "AGENT": [528]
+      }
     },
     "COMMUNITY_FLAGGING": {
       "VALUE": true,
