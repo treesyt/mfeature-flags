@@ -2,21 +2,33 @@
   "FLAGS": {
     "PROFILING": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 70, 81]
+      "ORGANISATIONS": [21, 70, 81],
+      "FALSE_FOR": {
+        "AGENT": [528]
+      }
     },
     "TRAINING": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 70]
+      "ORGANISATIONS": [21, 70],
+      "FALSE_FOR": {
+        "AGENT": [528]
+      }
     },
     "GREEN_TRACKER": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 70]
+      "ORGANISATIONS": [21, 70],
+      "FALSE_FOR": {
+        "AGENT": [528]
+      }
     },
     "FARMER_SUPPORT": {
       "VALUE": false,
       "ORGANISATIONS": [21, 70],
       "TRUE_FOR": {
         "AGENT": [447, 208, 431, 451, 448]
+      },
+      "FALSE_FOR": {
+        "AGENT": [528]
       }
     },
     "PURCHASES": {
@@ -24,10 +36,16 @@
       "ORGANISATIONS": [21, 70, 81]
     },
     "FORMS": {
-      "VALUE": true
+      "VALUE": true,
+      "FALSE_FOR": {
+        "AGENT": [528]
+      }
     },
     "INVENTORY_MANAGEMENT": {
-      "VALUE": true
+      "VALUE": true,
+      "FALSE_FOR": {
+        "AGENT": [528]
+      }
     },
     "INVENTORY_PRE":{
       "VALUE": true
@@ -56,7 +74,10 @@
     },
     "RECEIPTS": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 70, 81]
+      "ORGANISATIONS": [21, 70, 81],
+      "FALSE_FOR": {
+        "AGENT": [528]
+      }
     },
     "NFC_CARD": {
       "VALUE": true,
@@ -163,6 +184,13 @@
     },
     "RECORD_DATE_FOR_DEAD_SEEDLINGS": {
       "VALUE": true
+    },
+    "PURCHASE_PRE": {
+      "VALUE": true,
+      "ORGANISATIONS": [21, 70],
+      "FALSE_FOR": {
+        "AGENT": [528]
+      }
     }
   },
   "FORMS": {
