@@ -2,7 +2,10 @@
   "FLAGS": {
     "PROFILING": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 70, 81]
+      "ORGANISATIONS": [21, 70, 81],
+      "FALSE_FOR": {
+        "AGENT": [528]
+      }
     },
     "TRAINING": {
       "VALUE": true,
@@ -22,7 +25,7 @@
       "VALUE": false,
       "ORGANISATIONS": [21, 70],
       "TRUE_FOR": {
-        "AGENT": [447, 208, 431, 451, 448]
+        "AGENT": [447, 208, 431, 451, 448, 211]
       },
       "FALSE_FOR": {
         "AGENT": [528]
@@ -82,7 +85,10 @@
     },
     "RE_ISSUE_NFC_CARD": {
       "VALUE": true,
-      "ORGANISATIONS": [21]
+      "ORGANISATIONS": [21],
+      "FALSE_FOR": {
+        "AGENT": [528]
+      }
     },
     "NFC_FOR_FARMER_SUPPORT": {
       "VALUE": true,
