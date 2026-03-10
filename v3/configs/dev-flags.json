@@ -22,7 +22,7 @@
       }
     },
     "FARMER_SUPPORT": {
-      "VALUE": false,
+      "VALUE": true,
       "ORGANISATIONS": [21, 70],
       "TRUE_FOR": {
         "AGENT": [447, 208, 431, 451, 448, 211]
