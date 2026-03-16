@@ -47,7 +47,7 @@
         "AGENT": [528]
       }
     },
-    "INVENTORY_PRE":{
+    "INVENTORY_PRE": {
       "VALUE": true
     },
     "FARMER_PROFILING": {
@@ -194,6 +194,12 @@
     "PURCHASE_PRE": {
       "VALUE": true,
       "ORGANISATIONS": [21, 70],
+      "FALSE_FOR": {
+        "AGENT": [528]
+      }
+    },
+    "ORGANISATION_SWITCHING": {
+      "VALUE": true,
       "FALSE_FOR": {
         "AGENT": [528]
       }
