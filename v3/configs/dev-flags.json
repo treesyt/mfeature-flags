@@ -119,7 +119,10 @@
     },
     "COMMUNITY_FLAGGING": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 70]
+      "ORGANISATIONS": [21, 70],
+      "FALSE_FOR": {
+        "AGENT": [528,277]
+      }
     },
     "FARMER_SUPPORT_YEAR": {
       "VALUE": 2025
