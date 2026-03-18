@@ -4,21 +4,21 @@
       "VALUE": true,
       "ORGANISATIONS": [21, 70, 81],
       "FALSE_FOR": {
-        "AGENT": [528]
+        "AGENT": [528,277]
       }
     },
     "TRAINING": {
       "VALUE": true,
       "ORGANISATIONS": [21, 70],
       "FALSE_FOR": {
-        "AGENT": [528]
+        "AGENT": [528,277]
       }
     },
     "GREEN_TRACKER": {
       "VALUE": true,
       "ORGANISATIONS": [21, 70],
       "FALSE_FOR": {
-        "AGENT": [528]
+        "AGENT": [528,277]
       }
     },
     "FARMER_SUPPORT": {
@@ -28,7 +28,7 @@
         "AGENT": [447, 208, 431, 451, 448, 211]
       },
       "FALSE_FOR": {
-        "AGENT": [528]
+        "AGENT": [528,277]
       }
     },
     "PURCHASES": {
@@ -38,13 +38,13 @@
     "FORMS": {
       "VALUE": true,
       "FALSE_FOR": {
-        "AGENT": [528]
+        "AGENT": [528,277]
       }
     },
     "INVENTORY_MANAGEMENT": {
       "VALUE": true,
       "FALSE_FOR": {
-        "AGENT": [528]
+        "AGENT": [528,277]
       }
     },
     "INVENTORY_PRE": {
@@ -76,7 +76,7 @@
       "VALUE": true,
       "ORGANISATIONS": [21, 70, 81],
       "FALSE_FOR": {
-        "AGENT": [528]
+        "AGENT": [528,277]
       }
     },
     "NFC_CARD": {
@@ -87,7 +87,7 @@
       "VALUE": true,
       "ORGANISATIONS": [21],
       "FALSE_FOR": {
-        "AGENT": [528]
+        "AGENT": [528,277]
       }
     },
     "NFC_FOR_FARMER_SUPPORT": {
@@ -114,7 +114,7 @@
       "VALUE": true,
       "ORGANISATIONS": [21, 70],
       "FALSE_FOR": {
-        "AGENT": [528]
+        "AGENT": [528,277]
       }
     },
     "COMMUNITY_FLAGGING": {
@@ -195,13 +195,13 @@
       "VALUE": true,
       "ORGANISATIONS": [21, 70],
       "FALSE_FOR": {
-        "AGENT": [528]
+        "AGENT": [528,277]
       }
     },
     "ORGANISATION_SWITCHING": {
       "VALUE": true,
       "FALSE_FOR": {
-        "AGENT": [528]
+        "AGENT": [528,277]
       }
     }
   },
