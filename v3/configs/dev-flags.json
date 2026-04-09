@@ -2,14 +2,14 @@
   "FLAGS": {
     "PROFILING": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 49, 70, 81],
+      "ORGANISATIONS": [21, 49, 70, 81, 92],
       "FALSE_FOR": {
         "AGENT": [528]
       }
     },
     "TRAINING": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 70],
+      "ORGANISATIONS": [21, 70, 92],
       "FALSE_FOR": {
         "AGENT": [528,277]
       }
@@ -33,7 +33,7 @@
     },
     "PURCHASES": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 70, 81]
+      "ORGANISATIONS": [21, 70, 81, 92]
     },
     "FORMS": {
       "VALUE": true,
@@ -44,7 +44,8 @@
     "INVENTORY_MANAGEMENT": {
       "VALUE": true,
       "FALSE_FOR": {
-        "AGENT": [528,277]
+        "AGENT": [528,277],
+        "ORGANISATION": [92]
       }
     },
     "INVENTORY_PRE": {
