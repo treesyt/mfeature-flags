@@ -45,7 +45,7 @@
       "VALUE": true,
       "FALSE_FOR": {
         "AGENT": [528,277],
-        "ORGANISATION": [92]
+        "ORGANISATIONS": [92]
       }
     },
     "INVENTORY_PRE": {
