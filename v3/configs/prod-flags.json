@@ -103,10 +103,10 @@
       "VALUE": 2025
     },
     "FARMER_SUPPORT_PROGRESS": {
-      "VALUE": true
+      "VALUE": false
     },
     "FARMER_SUPPORT_RECOVERIES": {
-      "VALUE": true
+      "VALUE": false
     },
     "USER_PROFILE": {
       "VALUE": true,
