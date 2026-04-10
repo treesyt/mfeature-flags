@@ -147,7 +147,8 @@
       "VALUE": true,
       "ORGANISATIONS": [21],
       "FALSE_FOR": {
-        "AGENT": [211]
+        "AGENT": [211],
+        "ORGANISATIONS": [92]
       },
       "TRUE_FOR": {
         "AGENT": [451]
