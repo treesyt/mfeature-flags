@@ -208,6 +208,9 @@
       "FALSE_FOR": {
         "AGENT": [528,277]
       }
+    },
+    "ENFORCE_FACE_DETECTION": {
+       "VALUE": false
     }
   },
   "FORMS": {
