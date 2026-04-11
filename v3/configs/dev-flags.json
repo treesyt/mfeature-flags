@@ -43,6 +43,7 @@
     },
     "INVENTORY_MANAGEMENT": {
       "VALUE": true,
+      "ORGANISATIONS": [21, 70],
       "FALSE_FOR": {
         "AGENT": [528,277],
         "ORGANISATIONS": [92]
