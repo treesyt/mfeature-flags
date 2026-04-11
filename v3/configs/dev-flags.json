@@ -210,7 +210,10 @@
       }
     },
     "ENFORCE_FACE_DETECTION": {
-       "VALUE": false
+       "VALUE": false,
+       "TRUE_FOR": {
+         "ORGANISATIONS": [92]
+       }
     }
   },
   "FORMS": {
