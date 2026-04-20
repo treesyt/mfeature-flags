@@ -150,6 +150,9 @@
     "SEEDLING_MONITORING_IMAGE_SYNC_CHUNK_SIZE": {
       "VALUE": 5
     },
+    "IMAGE_SYNC_CHUNK_SIZE": {
+      "VALUE": 1
+    },
     "PURCHASE_WITH_OCR_SYNC_CHUNK_SIZE": {
       "VALUE": 3
     },
