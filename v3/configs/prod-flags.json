@@ -156,6 +156,12 @@
     "PURCHASE_WITH_OCR_SYNC_CHUNK_SIZE": {
       "VALUE": 3
     },
+    "FORM_SYNC_CHUNK_SIZE": {
+      "VALUE": 20
+    },
+    "FORM_MEDIA_SYNC_CHUNK_SIZE": {
+      "VALUE": 2
+    },
     "NURSERY_SEEDLING_ASSIGNMENT": {
       "VALUE": false
     },
