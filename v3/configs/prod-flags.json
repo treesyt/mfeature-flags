@@ -173,6 +173,9 @@
     },
     "RECORD_DATE_FOR_DEAD_SEEDLINGS": {
       "VALUE": false
+    },
+    "REPORT_DUPLICATE_NETWORK_ERRORS": {
+      "VALUE": true
     }
   },
   "FORMS": {
