@@ -12,14 +12,14 @@
       "VALUE": false,
       "ORGANISATIONS": [21, 92, 98],
       "TRUE_FOR": {
-        "APP_VERSION": ["6.3.0", "6.4.4", "6.5.0", "6.5.3", "6.5.5"]
+        "APP_VERSION": ["6.3.0", "6.4.4", "6.5.0", "6.5.3", "6.5.5", "6.5.6"]
       }
     },
     "FARMER_SUPPORT": {
       "VALUE": false,
       "ORGANISATIONS": [21, 68, 69, 71, 92, 98],
       "TRUE_FOR": {
-        "APP_VERSION": ["6.5.5"]
+        "APP_VERSION": ["6.5.5", "6.5.6"]
       }
     },
     "PURCHASES": {
@@ -34,7 +34,7 @@
       "VALUE": false,
       "ORGANISATIONS": [21],
       "TRUE_FOR": {
-        "APP_VERSION": ["6.5.0", "6.5.3", "6.5.5"]
+        "APP_VERSION": ["6.5.0", "6.5.3", "6.5.5", "6.5.6"]
       }
     },
     "INVENTORY_PRE": {
@@ -168,7 +168,7 @@
     "NURSERY_MANAGEMENT": {
       "VALUE": false,
       "TRUE_FOR": {
-        "APP_VERSION": ["6.4.4", "6.5.0", "6.5.3", "6.5.5"]
+        "APP_VERSION": ["6.4.4", "6.5.0", "6.5.3", "6.5.5", "6.5.6"]
       }
     },
     "RECORD_DATE_FOR_DEAD_SEEDLINGS": {
