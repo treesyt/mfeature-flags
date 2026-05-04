@@ -2,14 +2,14 @@
   "FLAGS": {
     "PROFILING": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 49, 70, 81, 92],
+      "ORGANISATIONS": [21, 49, 70, 81, 92, 99],
       "FALSE_FOR": {
         "AGENT": [528]
       }
     },
     "TRAINING": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 70, 92],
+      "ORGANISATIONS": [21, 70, 92, 99],
       "FALSE_FOR": {
         "AGENT": [528,277]
       }
@@ -33,7 +33,7 @@
     },
     "PURCHASES": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 70, 81, 92]
+      "ORGANISATIONS": [21, 70, 81, 92, 99]
     },
     "FORMS": {
       "VALUE": true,
@@ -72,7 +72,7 @@
     },
     "PURCHASE_VOICE_NOTE": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 81]
+      "ORGANISATIONS": [21, 81, 99]
     },
     "RECEIPTS": {
       "VALUE": true,
@@ -218,10 +218,12 @@
     "FARMER_PROFILING": {
       "70": ["CONSENT", "PERSONAL_INFO", "DUPLICATES", "FAMILY_INFO"],
       "97": ["CONSENT", "PERSONAL_INFO", "DUPLICATES"],
-      "21": ["CONSENT", "PERSONAL_INFO", "DUPLICATES", "FAMILY_INFO", "FARMING_INFO"]
+      "21": ["CONSENT", "PERSONAL_INFO", "DUPLICATES", "FAMILY_INFO", "FARMING_INFO"],
+      "99": ["CONSENT", "PERSONAL_INFO", "DUPLICATES", "FAMILY_INFO", "FARMING_INFO"]
     },
     "GROUP_PROFILING": {
-      "21": ["NO_MOMO_SIM_INTEREST"]
+      "21": ["NO_MOMO_SIM_INTEREST"],
+      "99": ["NO_MOMO_SIM_INTEREST"]
     }
   }
 }
