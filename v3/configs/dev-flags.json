@@ -16,14 +16,14 @@
     },
     "GREEN_TRACKER": {
       "VALUE": true,
-      "ORGANISATIONS": [70],
+      "ORGANISATIONS": [21, 70],
       "FALSE_FOR": {
         "AGENT": [528,277]
       }
     },
     "FARMER_SUPPORT": {
       "VALUE": true,
-      "ORGANISATIONS": [70],
+      "ORGANISATIONS": [21, 70],
       "TRUE_FOR": {
         "AGENT": [447, 208, 431, 451, 448, 211]
       },
@@ -43,7 +43,7 @@
     },
     "INVENTORY_MANAGEMENT": {
       "VALUE": true,
-      "ORGANISATIONS": [70],
+      "ORGANISATIONS": [21, 70],
       "FALSE_FOR": {
         "AGENT": [528,277],
         "ORGANISATIONS": [92]
@@ -76,14 +76,14 @@
     },
     "RECEIPTS": {
       "VALUE": true,
-      "ORGANISATIONS": [70, 81],
+      "ORGANISATIONS": [21, 70, 81],
       "FALSE_FOR": {
         "AGENT": [528,277]
       }
     },
     "NFC_CARD": {
       "VALUE": true,
-      "ORGANISATIONS": [70]
+      "ORGANISATIONS": [21, 70]
     },
     "RE_ISSUE_NFC_CARD": {
       "VALUE": true,
@@ -114,14 +114,14 @@
     },
     "FARMER_PROFILE_FLAGS": {
       "VALUE": true,
-      "ORGANISATIONS": [70],
+      "ORGANISATIONS": [21, 70],
       "FALSE_FOR": {
         "AGENT": [528,277]
       }
     },
     "COMMUNITY_FLAGGING": {
       "VALUE": true,
-      "ORGANISATIONS": [70],
+      "ORGANISATIONS": [21, 70],
       "FALSE_FOR": {
         "AGENT": [528,277]
       }
@@ -138,7 +138,7 @@
     },
     "USER_PROFILE": {
       "VALUE": true,
-      "ORGANISATIONS": [70]
+      "ORGANISATIONS": [21, 70]
     },
     "ENFORCE_SUPPORT_RECOVERY": {
       "VALUE": false,
@@ -146,7 +146,7 @@
     },
     "USE_BLUETOOTH_SCALE": {
       "VALUE": false,
-      "ORGANISATIONS": [70],
+      "ORGANISATIONS": [21, 70],
       "FALSE_FOR": {
         "AGENT": [211],
         "ORGANISATIONS": [92]
@@ -218,11 +218,9 @@
     "FARMER_PROFILING": {
       "70": ["CONSENT", "PERSONAL_INFO", "DUPLICATES", "FAMILY_INFO"],
       "97": ["CONSENT", "PERSONAL_INFO", "DUPLICATES"],
-      "21": ["CONSENT", "PERSONAL_INFO", "DUPLICATES", "FAMILY_INFO", "FARMING_INFO"],
       "99": ["CONSENT", "PERSONAL_INFO", "DUPLICATES", "FAMILY_INFO", "FARMING_INFO"]
     },
     "GROUP_PROFILING": {
-      "21": ["NO_MOMO_SIM_INTEREST"],
       "99": ["NO_MOMO_SIM_INTEREST"]
     }
   }
