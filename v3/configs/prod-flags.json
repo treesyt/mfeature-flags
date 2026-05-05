@@ -26,6 +26,10 @@
       "VALUE": true,
       "ORGANISATIONS": [21, 30, 68, 69, 71, 92, 95, 96, 97]
     },
+    "PURCHASE_PRE": {
+      "VALUE": true,
+      "ORGANISATIONS": [21, 30, 68, 69, 71, 92, 95, 96, 97]
+    },
     "FORMS": {
       "VALUE": true,
       "ORGANISATIONS": [21, 30, 69, 71, 92, 95, 98, 108, 117]
