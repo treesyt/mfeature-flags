@@ -127,7 +127,7 @@
       "VALUE": true,
       "ORGANISATIONS": [21],
       "FALSE_FOR": {
-        "AGENT": [330,244]
+        "AGENT": [330,244,433]
       }
     },
     "USE_BARCODES": {
@@ -155,10 +155,10 @@
       "VALUE": 5
     },
     "IMAGE_SYNC_CHUNK_SIZE": {
-      "VALUE": 1
+      "VALUE": 3
     },
     "PURCHASE_WITH_OCR_SYNC_CHUNK_SIZE": {
-      "VALUE": 3
+      "VALUE": 1
     },
     "FORM_SYNC_CHUNK_SIZE": {
       "VALUE": 20
