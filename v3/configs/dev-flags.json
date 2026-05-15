@@ -36,10 +36,7 @@
       "ORGANISATIONS": [21, 70, 81, 92, 99]
     },
     "BYPASS_PURCHASE_REQUEST": {
-      "VALUE": false,
-      "TRUE_FOR":{
-        "AGENT": [208]
-      }
+      "VALUE": true
     },
     "FORMS": {
       "VALUE": true,
