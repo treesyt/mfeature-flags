@@ -103,7 +103,7 @@
       "ORGANISATIONS": [21]
     },
     "FARMER_PROFILE_FLAGS": {
-      "VALUE": false,
+      "VALUE": true,
       "ORGANISATIONS": [21, 30, 68, 69, 71, 92]
     },
     "COMMUNITY_FLAGGING": {
