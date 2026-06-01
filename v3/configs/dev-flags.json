@@ -151,7 +151,6 @@
       "VALUE": true,
       "ORGANISATIONS": [21, 70],
       "FALSE_FOR": {
-        "AGENT": [211],
         "ORGANISATIONS": [92]
       }
     },
