@@ -36,7 +36,7 @@
       "ORGANISATIONS": [21, 70, 81, 92, 93, 99]
     },
     "BYPASS_PURCHASE_REQUEST": {
-      "VALUE": false
+      "VALUE": true
     },
     "FORMS": {
       "VALUE": true,
