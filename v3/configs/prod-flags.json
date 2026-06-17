@@ -184,6 +184,9 @@
     },
     "REPORT_DUPLICATE_NETWORK_ERRORS": {
       "VALUE": true
+    },
+    "LOCATION_VERIFICATION_RADIUS": {
+      "VALUE": 9000
     }
   },
   "FORMS": {
