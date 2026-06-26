@@ -152,6 +152,9 @@
       "ORGANISATIONS": [21, 70],
       "FALSE_FOR": {
         "ORGANISATIONS": [92]
+      },
+      "TRUE_FOR": {
+        "AGENT": [211]
       }
     },
     "USE_BARCODES": {
