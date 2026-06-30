@@ -2,11 +2,11 @@
   "FLAGS": {
     "PROFILING": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 30, 68, 69, 71, 92, 95, 96, 97, 98, 108, 117, 138, 139, 140]
+      "ORGANISATIONS": [21, 30, 68, 69, 71, 92, 95, 96, 97, 98, 108, 117, 138, 139, 140,143,144,145,146,147]
     },
     "TRAINING": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 68, 69, 71, 92, 95, 98, 108, 117, 138, 139, 140]
+      "ORGANISATIONS": [21, 68, 69, 71, 92, 95, 98, 108, 117, 138, 139, 140,143,144,145,146,147]
     },
     "GREEN_TRACKER": {
       "VALUE": false,
@@ -24,7 +24,7 @@
     },
     "PURCHASES": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 30, 68, 69, 71, 92, 95, 96, 97, 138, 139, 140]
+      "ORGANISATIONS": [21, 30, 68, 69, 71, 92, 95, 96, 97, 138, 139, 140,143,144,145,146,147]
     },
     "PURCHASE_PRE": {
       "VALUE": true,
@@ -32,11 +32,11 @@
     },
     "BYPASS_PURCHASE_REQUEST": {
       "VALUE": true,
-      "ORGANISATIONS": [138, 139, 140]
+      "ORGANISATIONS": [138, 139, 140,143,144,145,146,147]
     },
     "FORMS": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 30, 69, 71, 92, 95, 98, 108, 117]
+      "ORGANISATIONS": [21, 30, 69, 71, 92, 95, 98, 108, 117,143,144,145,146,147]
     },
     "INVENTORY_MANAGEMENT": {
       "VALUE": false,
@@ -68,7 +68,7 @@
     },
     "PURCHASE_VOICE_NOTE": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 68, 69, 71, 138, 139, 140]
+      "ORGANISATIONS": [21, 68, 69, 71, 138, 139, 140,143,144,145,146,147]
     },
     "RECEIPTS": {
       "VALUE": true,
@@ -136,7 +136,7 @@
     },
     "USE_BARCODES": {
       "VALUE": true,
-      "ORGANISATIONS": [21,138, 139, 140]
+      "ORGANISATIONS": [21]
     },
     "SHOW_GOOGLE_FORMS": {
       "VALUE": true,
@@ -195,12 +195,22 @@
       "97": ["CONSENT", "PERSONAL_INFO", "DUPLICATES"],
       "138": ["CONSENT", "PERSONAL_INFO", "DUPLICATES", "FAMILY_INFO", "FARMING_INFO"],
       "139": ["CONSENT", "PERSONAL_INFO", "DUPLICATES", "FAMILY_INFO", "FARMING_INFO"],
-      "140": ["CONSENT", "PERSONAL_INFO", "DUPLICATES", "FAMILY_INFO", "FARMING_INFO"]
+      "140": ["CONSENT", "PERSONAL_INFO", "DUPLICATES", "FAMILY_INFO", "FARMING_INFO"],
+      "143": ["CONSENT", "PERSONAL_INFO", "DUPLICATES", "FAMILY_INFO", "FARMING_INFO"],
+      "144": ["CONSENT", "PERSONAL_INFO", "DUPLICATES", "FAMILY_INFO", "FARMING_INFO"],
+      "145": ["CONSENT", "PERSONAL_INFO", "DUPLICATES", "FAMILY_INFO", "FARMING_INFO"],
+      "146": ["CONSENT", "PERSONAL_INFO", "DUPLICATES", "FAMILY_INFO", "FARMING_INFO"],
+      "147": ["CONSENT", "PERSONAL_INFO", "DUPLICATES", "FAMILY_INFO", "FARMING_INFO"]
     },
     "GROUP_PROFILING": {
       "138": ["NO_MOMO_SIM_INTEREST"],
       "139": ["NO_MOMO_SIM_INTEREST"],
-      "140": ["NO_MOMO_SIM_INTEREST"]
+      "140": ["NO_MOMO_SIM_INTEREST"],
+      "143": ["NO_MOMO_SIM_INTEREST"],
+      "144": ["NO_MOMO_SIM_INTEREST"],
+      "145": ["NO_MOMO_SIM_INTEREST"],
+      "146": ["NO_MOMO_SIM_INTEREST"],
+      "147": ["NO_MOMO_SIM_INTEREST"]
     }
   }
 }
