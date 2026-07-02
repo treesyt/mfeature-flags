@@ -187,6 +187,13 @@
     },
     "LOCATION_VERIFICATION_RADIUS": {
       "VALUE": 9000
+    },
+    "HAS_UNSENT_PRE_FILTER_DATE": {
+      "VALUE": "2026-07-06"
+    },
+    "PURCHASE_REQUEST_PREVENTION": {
+      "VALUE": true,
+      "ORGANISATIONS": [21]
     }
   },
   "FORMS": {

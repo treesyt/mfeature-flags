@@ -154,7 +154,7 @@
         "ORGANISATIONS": [92]
       },
       "TRUE_FOR": {
-        "AGENT": [211]
+        "AGENT": [211,451,448]
       }
     },
     "USE_BARCODES": {
@@ -220,6 +220,13 @@
     },
     "HAS_UNSENT_PRE_FILTER_DATE": {
       "VALUE": "2026-07-02"
+    },
+    "PURCHASE_REQUEST_PREVENTION": {
+      "VALUE": true,
+      "ORGANISATIONS": [21],
+      "FALSE_FOR": {
+        "AGENT": [451,448]
+      }
     }
   },
   "FORMS": {
