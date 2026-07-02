@@ -217,6 +217,9 @@
        "TRUE_FOR": {
          "ORGANISATIONS": [92]
        }
+    },
+    "HAS_UNSENT_PRE_FILTER_DATE": {
+      "VALUE": "2026-07-02"
     }
   },
   "FORMS": {
