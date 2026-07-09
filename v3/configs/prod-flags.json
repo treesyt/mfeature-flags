@@ -2,29 +2,29 @@
   "FLAGS": {
     "PROFILING": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 30, 68, 69, 71, 92, 95, 96, 97, 98, 108, 117, 138, 139, 140,143,144,145,146,147]
+      "ORGANISATIONS": [21, 30, 68, 69, 71, 92, 95, 96, 97, 98, 108, 117, 138, 139, 140,143,144,145,146,147,124,148,149,150,151]
     },
     "TRAINING": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 68, 69, 71, 92, 95, 98, 108, 117, 138, 139, 140,143,144,145,146,147]
+      "ORGANISATIONS": [21, 68, 69, 71, 92, 95, 98, 108, 117, 138, 139, 140,143,144,145,146,147,124,148,149,150,151]
     },
     "GREEN_TRACKER": {
       "VALUE": false,
-      "ORGANISATIONS": [21, 92, 98],
+      "ORGANISATIONS": [21, 92, 98,124,148,149,150,151],
       "TRUE_FOR": {
         "APP_VERSION": ["6.8.1","6.8.2","6.8.3","6.8.4","6.8.5","6.9.0"]
       }
     },
     "FARMER_SUPPORT": {
       "VALUE": false,
-      "ORGANISATIONS": [21, 68, 69, 71, 92, 98],
+      "ORGANISATIONS": [21, 68, 69, 71, 92, 98,124],
       "TRUE_FOR": {
         "APP_VERSION": ["6.8.0","6.8.1","6.8.2","6.8.3","6.8.4","6.8.5","6.9.0"]
       }
     },
     "PURCHASES": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 30, 68, 69, 71, 92, 95, 96, 97, 138, 139, 140,143,144,145,146,147]
+      "ORGANISATIONS": [21, 30, 68, 69, 71, 92, 95, 96, 97, 138, 139, 140,143,144,145,146,147,124,148,149,150,151]
     },
     "PURCHASE_PRE": {
       "VALUE": true,
@@ -32,11 +32,11 @@
     },
     "BYPASS_PURCHASE_REQUEST": {
       "VALUE": true,
-      "ORGANISATIONS": [138, 139, 140,143,144,145,146,147]
+      "ORGANISATIONS": [138, 139, 140,143,144,145,146,147,124,148,149,150,151]
     },
     "FORMS": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 30, 69, 71, 92, 95, 98, 108, 117,143,144,145,146,147]
+      "ORGANISATIONS": [21, 30, 69, 71, 92, 95, 98, 108, 117,143,144,145,146,147,124,148,149,150,151]
     },
     "INVENTORY_MANAGEMENT": {
       "VALUE": false,
@@ -65,7 +65,7 @@
     },
     "PURCHASE_VOICE_NOTE": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 68, 69, 71, 138, 139, 140,143,144,145,146,147]
+      "ORGANISATIONS": [21, 68, 69, 71, 138, 139, 140,143,144,145,146,147,124,148,149,150,151]
     },
     "RECEIPTS": {
       "VALUE": true,
@@ -73,7 +73,7 @@
     },
     "NFC_CARD": {
       "VALUE": false,
-      "ORGANISATIONS": [21]
+      "ORGANISATIONS": [21,124]
     },
     "RE_ISSUE_NFC_CARD": {
       "VALUE": false,
@@ -81,23 +81,23 @@
     },
     "NFC_FOR_FARMER_SUPPORT": {
       "VALUE": false,
-      "ORGANISATIONS": [21]
+      "ORGANISATIONS": [21,124]
     },
     "NFC_FOR_TRAINING": {
       "VALUE": false,
-      "ORGANISATIONS": [21]
+      "ORGANISATIONS": [21,124]
     },
     "NFC_FOR_SEEDLING_ASSIGNMENT": {
       "VALUE": false,
-      "ORGANISATIONS": [21]
+      "ORGANISATIONS": [21,124]
     },
     "NFC_FOR_PURCHASES": {
       "VALUE": false,
-      "ORGANISATIONS": [21]
+      "ORGANISATIONS": [21,124]
     },
     "NFC_FOR_GROUP_MEMBERSHIP": {
       "VALUE": false,
-      "ORGANISATIONS": [21]
+      "ORGANISATIONS": [21,124]
     },
     "FARMER_PROFILE_FLAGS": {
       "VALUE": false,
@@ -129,11 +129,11 @@
     },
     "USE_BLUETOOTH_SCALE": {
       "VALUE": true,
-      "ORGANISATIONS": [21]
+      "ORGANISATIONS": [21,124]
     },
     "USE_BARCODES": {
       "VALUE": true,
-      "ORGANISATIONS": [21]
+      "ORGANISATIONS": [21,124]
     },
     "SHOW_GOOGLE_FORMS": {
       "VALUE": true,
