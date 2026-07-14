@@ -144,7 +144,7 @@
       "ORGANISATIONS": [21]
     },
     "USE_BLUETOOTH_SCALE": {
-      "VALUE": false,
+      "VALUE": true,
       "ORGANISATIONS": [21, 70],
       "FALSE_FOR": {
         "ORGANISATIONS": [92]
