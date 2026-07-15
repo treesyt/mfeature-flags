@@ -194,6 +194,9 @@
     "PURCHASE_REQUEST_PREVENTION": {
       "VALUE": true,
       "ORGANISATIONS": [21]
+    },
+    "ORGANISATION_SWITCHING": {
+      "VALUE": true
     }
   },
   "FORMS": {
