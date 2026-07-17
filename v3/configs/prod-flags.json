@@ -40,7 +40,7 @@
     },
     "INVENTORY_MANAGEMENT": {
       "VALUE": false,
-      "ORGANISATIONS": [21]
+      "ORGANISATIONS": [21,124]
     },
     "INVENTORY_PRE": {
       "VALUE": true
