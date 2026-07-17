@@ -12,14 +12,14 @@
       "VALUE": false,
       "ORGANISATIONS": [21, 92, 98,124,148,149,150,151],
       "TRUE_FOR": {
-        "APP_VERSION": ["6.8.1","6.8.2","6.8.3","6.8.4","6.8.5","6.9.0"]
+        "APP_VERSION": ["6.8.1","6.8.2","6.8.3","6.8.4","6.8.5","6.9.0","6.10.0"]
       }
     },
     "FARMER_SUPPORT": {
       "VALUE": false,
       "ORGANISATIONS": [21, 68, 69, 71, 92, 98,124],
       "TRUE_FOR": {
-        "APP_VERSION": ["6.8.0","6.8.1","6.8.2","6.8.3","6.8.4","6.8.5","6.9.0"]
+        "APP_VERSION": ["6.8.0","6.8.1","6.8.2","6.8.3","6.8.4","6.8.5","6.9.0","6.10.0"]
       }
     },
     "PURCHASES": {
@@ -40,7 +40,10 @@
     },
     "INVENTORY_MANAGEMENT": {
       "VALUE": false,
-      "ORGANISATIONS": [21]
+      "ORGANISATIONS": [21],
+      "TRUE_FOR": {
+        "APP_VERSION": ["6.10.0"]
+      }
     },
     "INVENTORY_PRE": {
       "VALUE": true
@@ -113,7 +116,7 @@
     "FARMER_SUPPORT_PROGRESS": {
       "VALUE": false,
       "TRUE_FOR": {
-        "APP_VERSION": ["6.8.0", "6.8.1", "6.8.2", "6.8.3", "6.8.4", "6.8.5","6.9.0"]
+        "APP_VERSION": ["6.8.0", "6.8.1", "6.8.2", "6.8.3", "6.8.4", "6.8.5","6.9.0","6.10.0"]
       }
     },
     "FARMER_SUPPORT_RECOVERIES": {
@@ -173,7 +176,7 @@
     "NURSERY_MANAGEMENT": {
       "VALUE": false,
       "TRUE_FOR": {
-        "APP_VERSION": ["6.8.0","6.8.1","6.8.2","6.8.3","6.8.4","6.8.5","6.9.0"]
+        "APP_VERSION": ["6.8.0","6.8.1","6.8.2","6.8.3","6.8.4","6.8.5","6.9.0","6.10.0"]
       },
       "FALSE_FOR": {
         "ORGANISATIONS": [124]
@@ -189,7 +192,7 @@
       "VALUE": 9000
     },
     "HAS_UNSENT_PRE_FILTER_DATE": {
-      "VALUE": "2026-07-06"
+      "VALUE": "2026-07-17"
     },
     "PURCHASE_REQUEST_PREVENTION": {
       "VALUE": true,
