@@ -39,8 +39,11 @@
       "ORGANISATIONS": [21, 30, 69, 71, 92, 95, 98, 108, 117,143,144,145,146,147,124,148,149,150,151,142,138,139,140]
     },
     "INVENTORY_MANAGEMENT": {
-      "VALUE": true,
-      "ORGANISATIONS": [21,124]
+      "VALUE": false,
+      "ORGANISATIONS": [21,124],
+      "TRUE_FOR": {
+        "APP_VERSION": ["6.10.0"]
+      }
     },
     "INVENTORY_PRE": {
       "VALUE": true
