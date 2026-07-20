@@ -11,14 +11,14 @@
       "VALUE": true,
       "ORGANISATIONS": [21, 70, 92, 93, 99],
       "FALSE_FOR": {
-        "AGENT": [528,277]
+        "AGENT": [528]
       }
     },
     "GREEN_TRACKER": {
       "VALUE": true,
       "ORGANISATIONS": [21, 70, 93],
       "FALSE_FOR": {
-        "AGENT": [528,277]
+        "AGENT": [528]
       }
     },
     "FARMER_SUPPORT": {
@@ -28,7 +28,7 @@
         "AGENT": [447, 208, 431, 451, 448, 211]
       },
       "FALSE_FOR": {
-        "AGENT": [528,277]
+        "AGENT": [528]
       }
     },
     "PURCHASES": {
@@ -41,7 +41,7 @@
     "FORMS": {
       "VALUE": true,
       "FALSE_FOR": {
-        "AGENT": [528,277]
+        "AGENT": [528]
       }
     },
     "INVENTORY_MANAGEMENT": {
@@ -77,7 +77,7 @@
       "VALUE": true,
       "ORGANISATIONS": [21, 70, 81],
       "FALSE_FOR": {
-        "AGENT": [528,277]
+        "AGENT": [528]
       }
     },
     "NFC_CARD": {
@@ -88,7 +88,7 @@
       "VALUE": true,
       "ORGANISATIONS": [21],
       "FALSE_FOR": {
-        "AGENT": [528,277]
+        "AGENT": [528]
       }
     },
     "NFC_FOR_FARMER_SUPPORT": {
@@ -112,17 +112,17 @@
       "ORGANISATIONS": [21]
     },
     "FARMER_PROFILE_FLAGS": {
-      "VALUE": false,
+      "VALUE": true,
       "ORGANISATIONS": [21,70],
       "FALSE_FOR": {
-        "AGENT": [528,277]
+        "AGENT": [528]
       }
     },
     "COMMUNITY_FLAGGING": {
       "VALUE": true,
       "ORGANISATIONS": [21, 70],
       "FALSE_FOR": {
-        "AGENT": [528,277]
+        "AGENT": [528]
       }
     },
     "FARMER_SUPPORT_YEAR": {
@@ -196,13 +196,13 @@
       "VALUE": true,
       "ORGANISATIONS": [21, 70],
       "FALSE_FOR": {
-        "AGENT": [528,277]
+        "AGENT": [528]
       }
     },
     "ORGANISATION_SWITCHING": {
       "VALUE": true,
       "FALSE_FOR": {
-        "AGENT": [528,277]
+        "AGENT": [528]
       }
     },
     "ENFORCE_FACE_DETECTION": {
