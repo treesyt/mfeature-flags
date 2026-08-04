@@ -42,7 +42,7 @@
       "VALUE": false,
       "ORGANISATIONS": [21,124],
       "TRUE_FOR": {
-        "APP_VERSION": ["6.10.0"]
+        "APP_VERSION": ["6.10.0","6.11.0"]
       }
     },
     "INVENTORY_PRE": {
