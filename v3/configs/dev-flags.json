@@ -224,6 +224,10 @@
       "FALSE_FOR": {
         "AGENT": [451,448]
       }
+    },
+    "WEEKLY_ACTIVITIES": {
+      "VALUE": true,
+      "ORGANISATIONS": [21]
     }
   },
   "FORMS": {
