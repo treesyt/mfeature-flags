@@ -12,14 +12,14 @@
       "VALUE": false,
       "ORGANISATIONS": [21, 92, 98,124,148,149,150,151],
       "TRUE_FOR": {
-        "APP_VERSION": ["6.9.0","6.10.0","6.11.0","7.0.0"]
+        "APP_VERSION": ["6.9.0","6.10.0","6.11.0","7.0.0","7.0.1"]
       }
     },
     "FARMER_SUPPORT": {
       "VALUE": false,
       "ORGANISATIONS": [21, 68, 69, 71, 92, 98,124],
       "TRUE_FOR": {
-        "APP_VERSION": ["6.9.0","6.10.0","6.11.0","7.0.0"]
+        "APP_VERSION": ["6.9.0","6.10.0","6.11.0","7.0.0","7.0.1"]
       }
     },
     "PURCHASES": {
@@ -42,7 +42,7 @@
       "VALUE": false,
       "ORGANISATIONS": [21,124],
       "TRUE_FOR": {
-        "APP_VERSION": ["6.10.0","6.11.0","7.0.0"]
+        "APP_VERSION": ["6.10.0","6.11.0","7.0.0","7.0.1"]
       }
     },
     "INVENTORY_PRE": {
@@ -116,13 +116,13 @@
     "FARMER_SUPPORT_PROGRESS": {
       "VALUE": false,
       "TRUE_FOR": {
-        "APP_VERSION": ["6.10.0","6.11.0","7.0.0"]
+        "APP_VERSION": ["6.10.0","6.11.0","7.0.0","7.0.1"]
       }
     },
     "FARMER_SUPPORT_RECOVERIES": {
       "VALUE": false,
       "TRUE_FOR": {
-        "APP_VERSION": ["7.0.0"]
+        "APP_VERSION": ["7.0.0","7.0.1"]
       }
     },
     "USER_PROFILE": {
@@ -179,7 +179,7 @@
     "NURSERY_MANAGEMENT": {
       "VALUE": false,
       "TRUE_FOR": {
-        "APP_VERSION": ["6.9.0","6.10.0","6.11.0","7.0.0"]
+        "APP_VERSION": ["6.9.0","6.10.0","6.11.0","7.0.0","7.0.1"]
       },
       "FALSE_FOR": {
         "ORGANISATIONS": [124]
