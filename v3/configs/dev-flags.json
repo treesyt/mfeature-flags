@@ -222,7 +222,7 @@
       "VALUE": true,
       "ORGANISATIONS": [21],
       "FALSE_FOR": {
-        "AGENT": [451,448]
+        "AGENT": [451,448, 277]
       }
     },
     "WEEKLY_ACTIVITIES": {
