@@ -83,10 +83,7 @@
     },
     "NFC_CARD": {
       "VALUE": false,
-      "ORGANISATIONS": [21, 70],
-      "TRUE_FOR": {
-        "ORGANISATIONS": [21]
-      }
+      "ORGANISATIONS": [21, 70]
     },
     "RE_ISSUE_NFC_CARD": {
       "VALUE": false,
@@ -213,10 +210,7 @@
       }
     },
     "ENFORCE_FACE_DETECTION": {
-       "VALUE": false,
-       "TRUE_FOR": {
-         "ORGANISATIONS": [92]
-       }
+       "VALUE": false
     },
     "HAS_UNSENT_PRE_FILTER_DATE": {
       "VALUE": "2026-07-17"

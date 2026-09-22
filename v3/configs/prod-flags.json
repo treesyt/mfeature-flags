@@ -75,50 +75,32 @@
       "ORGANISATIONS": [21, 68, 69, 71]
     },
     "NFC_CARD": {
-      "VALUE": false,
-      "ORGANISATIONS": [21,124,148,149,150,151],
-      "TRUE_FOR": {
-        "ORGANISATIONS": [148,149,150,151]
-      }
+      "VALUE": true,
+      "ORGANISATIONS": [148,149,150,151]
     },
     "RE_ISSUE_NFC_CARD": {
       "VALUE": false,
       "ORGANISATIONS": [21]
     },
     "NFC_FOR_FARMER_SUPPORT": {
-      "VALUE": false,
-      "ORGANISATIONS": [21,124,148,149,150,151],
-      "TRUE_FOR": {
-        "ORGANISATIONS": [148,149,150,151]
-      }
+      "VALUE": true,
+      "ORGANISATIONS": [148,149,150,151]
     },
     "NFC_FOR_TRAINING": {
-      "VALUE": false,
-      "ORGANISATIONS": [21,124,148,149,150,151],
-      "TRUE_FOR": {
-        "ORGANISATIONS": [148,149,150,151]
-      }
+      "VALUE": true,
+      "ORGANISATIONS": [148,149,150,151]
     },
     "NFC_FOR_SEEDLING_ASSIGNMENT": {
-      "VALUE": false,
-      "ORGANISATIONS": [21,124,148,149,150,151],
-      "TRUE_FOR": {
-        "ORGANISATIONS": [148,149,150,151]
-      }
+      "VALUE": true,
+      "ORGANISATIONS": [148,149,150,151]
     },
     "NFC_FOR_PURCHASES": {
-      "VALUE": false,
-      "ORGANISATIONS": [21,124,148,149,150,151],
-      "TRUE_FOR": {
-        "ORGANISATIONS": [148,149,150,151]
-      }
+      "VALUE": true,
+      "ORGANISATIONS": [148,149,150,151]
     },
     "NFC_FOR_GROUP_MEMBERSHIP": {
-      "VALUE": false,
-      "ORGANISATIONS": [21,124,148,149,150,151],
-      "TRUE_FOR": {
-        "ORGANISATIONS": [148,149,150,151]
-      }
+      "VALUE": true,
+      "ORGANISATIONS": [148,149,150,151]
     },
     "FARMER_PROFILE_FLAGS": {
       "VALUE": false,
