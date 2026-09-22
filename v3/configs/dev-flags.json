@@ -85,11 +85,11 @@
       "VALUE": false,
       "ORGANISATIONS": [21, 70],
       "TRUE_FOR": {
-        "ORGANISATIONS": [70]
+        "ORGANISATIONS": [21]
       }
     },
     "RE_ISSUE_NFC_CARD": {
-      "VALUE": true,
+      "VALUE": false,
       "ORGANISATIONS": [21],
       "FALSE_FOR": {
         "AGENT": [528]
