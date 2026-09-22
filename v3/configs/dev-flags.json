@@ -82,8 +82,11 @@
       }
     },
     "NFC_CARD": {
-      "VALUE": true,
-      "ORGANISATIONS": [21, 70]
+      "VALUE": false,
+      "ORGANISATIONS": [21, 70],
+      "TRUE_FOR": {
+        "ORGANISATIONS": [70]
+      }
     },
     "RE_ISSUE_NFC_CARD": {
       "VALUE": true,
