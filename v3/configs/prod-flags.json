@@ -203,6 +203,9 @@
     },
     "ORGANISATION_SWITCHING": {
       "VALUE": true
+    },
+    "WEEKLY_BUDGET_AI_SHADOW_REVIEW": {
+      "VALUE": true
     }
   },
   "FORMS": {
