@@ -204,6 +204,10 @@
     "ORGANISATION_SWITCHING": {
       "VALUE": true
     },
+    "WEEKLY_ACTIVITIES": {
+      "VALUE": true,
+      "ORGANISATIONS": [21]
+    },
     "WEEKLY_BUDGET_AI_SHADOW_REVIEW": {
       "VALUE": true
     }
