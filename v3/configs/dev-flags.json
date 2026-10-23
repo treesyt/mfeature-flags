@@ -2,77 +2,37 @@
   "FLAGS": {
     "PROFILING": {
       "VALUE": true,
-      "ORGANISATIONS": [
-        21,
-        49,
-        70,
-        81,
-        92,
-        93,
-        99
-      ]
+      "ORGANISATIONS": [21, 49, 70, 81, 92, 93, 99]
     },
     "TRAINING": {
       "VALUE": true,
-      "ORGANISATIONS": [
-        21,
-        70,
-        92,
-        93,
-        99
-      ]
+      "ORGANISATIONS": [21, 70, 92, 93, 99]
     },
     "GREEN_TRACKER": {
       "VALUE": true,
-      "ORGANISATIONS": [
-        21,
-        70,
-        93
-      ]
+      "ORGANISATIONS": [21, 70, 93]
     },
     "FARMER_SUPPORT": {
       "VALUE": true,
-      "ORGANISATIONS": [
-        21,
-        70
-      ],
+      "ORGANISATIONS": [21, 70],
       "TRUE_FOR": {
-        "AGENT": [
-          447,
-          208,
-          431,
-          451,
-          448,
-          211
-        ]
+        "AGENT": [447, 208, 431, 451, 448, 211]
       }
     },
     "PURCHASES": {
       "VALUE": true,
-      "ORGANISATIONS": [
-        21,
-        70,
-        81,
-        92,
-        93,
-        99
-      ]
+      "ORGANISATIONS": [21, 70, 81, 92, 93, 99]
     },
     "BYPASS_PURCHASE_REQUEST": {
       "VALUE": true,
-      "ORGANISATIONS": [
-        92
-      ]
+      "ORGANISATIONS": [92]
     },
     "FORMS": {
       "VALUE": true
     },
     "INVENTORY_MANAGEMENT": {
       "VALUE": true,
-      "ORGANISATIONS": [
-        21,
-        70
-      ]
+      "ORGANISATIONS": [21, 70]
     },
     "INVENTORY_PRE": {
       "VALUE": true
@@ -97,78 +57,47 @@
     },
     "PURCHASE_VOICE_NOTE": {
       "VALUE": true,
-      "ORGANISATIONS": [
-        21,
-        81,
-        92,
-        93,
-        99
-      ]
+      "ORGANISATIONS": [21, 81, 92, 93, 99]
     },
     "RECEIPTS": {
       "VALUE": true,
-      "ORGANISATIONS": [
-        21,
-        70,
-        81
-      ]
+      "ORGANISATIONS": [21, 70, 81]
     },
     "NFC_CARD": {
       "VALUE": false,
-      "ORGANISATIONS": [
-        21,
-        70
-      ]
+      "ORGANISATIONS": [21, 70]
     },
     "RE_ISSUE_NFC_CARD": {
       "VALUE": false,
-      "ORGANISATIONS": [
-        21
-      ]
+      "ORGANISATIONS": [21]
     },
     "NFC_FOR_FARMER_SUPPORT": {
       "VALUE": true,
-      "ORGANISATIONS": [
-        21
-      ]
+      "ORGANISATIONS": [21]
     },
     "NFC_FOR_TRAINING": {
       "VALUE": true,
-      "ORGANISATIONS": [
-        21
-      ]
+      "ORGANISATIONS": [21]
     },
     "NFC_FOR_SEEDLING_ASSIGNMENT": {
       "VALUE": true,
-      "ORGANISATIONS": [
-        21
-      ]
+      "ORGANISATIONS": [21]
     },
     "NFC_FOR_PURCHASES": {
       "VALUE": true,
-      "ORGANISATIONS": [
-        21
-      ]
+      "ORGANISATIONS": [21]
     },
     "NFC_FOR_GROUP_MEMBERSHIP": {
       "VALUE": true,
-      "ORGANISATIONS": [
-        21
-      ]
+      "ORGANISATIONS": [21]
     },
     "FARMER_PROFILE_FLAGS": {
       "VALUE": true,
-      "ORGANISATIONS": [
-        21,
-        70
-      ]
+      "ORGANISATIONS": [21,70]
     },
     "COMMUNITY_FLAGGING": {
       "VALUE": true,
-      "ORGANISATIONS": [
-        21,
-        70
-      ]
+      "ORGANISATIONS": [21, 70]
     },
     "FARMER_SUPPORT_YEAR": {
       "VALUE": 2026
@@ -178,54 +107,34 @@
     },
     "FARMER_SUPPORT_RECOVERIES": {
       "VALUE": true,
-      "ORGANISATIONS": [
-        21,
-        70
-      ]
+      "ORGANISATIONS": [21, 70]
     },
     "USER_PROFILE": {
       "VALUE": true,
-      "ORGANISATIONS": [
-        21,
-        70
-      ]
+      "ORGANISATIONS": [21, 70]
     },
     "ENFORCE_SUPPORT_RECOVERY": {
       "VALUE": false,
-      "ORGANISATIONS": [
-        21
-      ]
+      "ORGANISATIONS": [21]
     },
     "USE_BLUETOOTH_SCALE": {
       "VALUE": false,
-      "ORGANISATIONS": [
-        21,
-        70
-      ],
+      "ORGANISATIONS": [21, 70],
       "FALSE_FOR": {
-        "ORGANISATIONS": [
-          92
-        ]
+        "ORGANISATIONS": [92]
       }
     },
     "USE_BARCODES": {
       "VALUE": true,
-      "ORGANISATIONS": [
-        21,
-        81
-      ]
+      "ORGANISATIONS": [21, 81]
     },
     "SHOW_GOOGLE_FORMS": {
       "VALUE": true,
-      "ORGANISATIONS": [
-        21
-      ]
+      "ORGANISATIONS": [21]
     },
     "NO_PURCHASE_FROM_OWING_COMMUNITY": {
       "VALUE": true,
-      "ORGANISATIONS": [
-        21
-      ]
+      "ORGANISATIONS": [21]
     },
     "SEEDLING_ASSIGNMENT_SYNC_CHUNK_SIZE": {
       "VALUE": 250
@@ -248,12 +157,13 @@
     "NURSERY_SEEDLING_ASSIGNMENT": {
       "VALUE": true
     },
+    "SYNC_ENGINE_FARMER_GROUP": {
+      "VALUE": false
+    },
     "NURSERY_MANAGEMENT": {
       "VALUE": true,
       "TRUE_FOR": {
-        "APP_VERSION": [
-          "6.4.0"
-        ]
+        "APP_VERSION": ["6.4.0"]
       }
     },
     "RECORD_DATE_FOR_DEAD_SEEDLINGS": {
@@ -261,88 +171,43 @@
     },
     "PURCHASE_PRE": {
       "VALUE": true,
-      "ORGANISATIONS": [
-        21,
-        70
-      ]
+      "ORGANISATIONS": [21, 70]
     },
     "ORGANISATION_SWITCHING": {
       "VALUE": true
     },
     "ENFORCE_FACE_DETECTION": {
-      "VALUE": false
+       "VALUE": false
     },
     "HAS_UNSENT_PRE_FILTER_DATE": {
       "VALUE": "2026-07-17"
     },
     "PURCHASE_REQUEST_PREVENTION": {
       "VALUE": true,
-      "ORGANISATIONS": [
-        21
-      ],
+      "ORGANISATIONS": [21],
       "FALSE_FOR": {
-        "AGENT": [
-          451,
-          448,
-          277
-        ]
+        "AGENT": [451,448, 277]
       }
     },
     "WEEKLY_ACTIVITIES": {
       "VALUE": true,
-      "ORGANISATIONS": [
-        21
-      ]
+      "ORGANISATIONS": [21]
     },
     "WEEKLY_BUDGET_AI_SHADOW_REVIEW": {
       "VALUE": true
-    },
-    "SYNC_ENGINE_FARMER_GROUP": {
-      "VALUE": false
     }
   },
   "FORMS": {
     "FARMER_PROFILING": {
-      "70": [
-        "CONSENT",
-        "PERSONAL_INFO",
-        "DUPLICATES",
-        "FAMILY_INFO"
-      ],
-      "97": [
-        "CONSENT",
-        "PERSONAL_INFO",
-        "DUPLICATES"
-      ],
-      "99": [
-        "CONSENT",
-        "PERSONAL_INFO",
-        "DUPLICATES",
-        "FAMILY_INFO",
-        "FARMING_INFO"
-      ],
-      "92": [
-        "CONSENT",
-        "PERSONAL_INFO",
-        "DUPLICATES",
-        "FAMILY_INFO",
-        "FARMING_INFO"
-      ],
-      "21": [
-        "CONSENT",
-        "PERSONAL_INFO",
-        "DUPLICATES",
-        "FAMILY_INFO",
-        "FARMING_INFO"
-      ]
+      "21": ["CONSENT", "PERSONAL_INFO", "DUPLICATES", "FAMILY_INFO", "FARMING_INFO"],
+      "70": ["CONSENT", "PERSONAL_INFO", "DUPLICATES", "FAMILY_INFO"],
+      "97": ["CONSENT", "PERSONAL_INFO", "DUPLICATES"],
+      "99": ["CONSENT", "PERSONAL_INFO", "DUPLICATES", "FAMILY_INFO", "FARMING_INFO"],
+      "92": ["CONSENT", "PERSONAL_INFO", "DUPLICATES", "FAMILY_INFO", "FARMING_INFO"]
     },
     "GROUP_PROFILING": {
-      "99": [
-        "NO_MOMO_SIM_INTEREST"
-      ],
-      "92": [
-        "NO_MOMO_SIM_INTEREST"
-      ]
+      "99": ["NO_MOMO_SIM_INTEREST"],
+      "92": ["NO_MOMO_SIM_INTEREST"]
     }
   }
 }
