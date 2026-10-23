@@ -2,33 +2,21 @@
   "FLAGS": {
     "PROFILING": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 49, 70, 81, 92, 93, 99],
-      "FALSE_FOR": {
-        "AGENT": [528]
-      }
+      "ORGANISATIONS": [21, 49, 70, 81, 92, 93, 99]
     },
     "TRAINING": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 70, 92, 93, 99],
-      "FALSE_FOR": {
-        "AGENT": [528]
-      }
+      "ORGANISATIONS": [21, 70, 92, 93, 99]
     },
     "GREEN_TRACKER": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 70, 93],
-      "FALSE_FOR": {
-        "AGENT": [528]
-      }
+      "ORGANISATIONS": [21, 70, 93]
     },
     "FARMER_SUPPORT": {
       "VALUE": true,
       "ORGANISATIONS": [21, 70],
       "TRUE_FOR": {
         "AGENT": [447, 208, 431, 451, 448, 211]
-      },
-      "FALSE_FOR": {
-        "AGENT": [528]
       }
     },
     "PURCHASES": {
@@ -40,10 +28,7 @@
       "ORGANISATIONS": [92]
     },
     "FORMS": {
-      "VALUE": true,
-      "FALSE_FOR": {
-        "AGENT": [528]
-      }
+      "VALUE": true
     },
     "INVENTORY_MANAGEMENT": {
       "VALUE": true,
@@ -76,10 +61,7 @@
     },
     "RECEIPTS": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 70, 81],
-      "FALSE_FOR": {
-        "AGENT": [528]
-      }
+      "ORGANISATIONS": [21, 70, 81]
     },
     "NFC_CARD": {
       "VALUE": false,
@@ -87,10 +69,7 @@
     },
     "RE_ISSUE_NFC_CARD": {
       "VALUE": false,
-      "ORGANISATIONS": [21],
-      "FALSE_FOR": {
-        "AGENT": [528]
-      }
+      "ORGANISATIONS": [21]
     },
     "NFC_FOR_FARMER_SUPPORT": {
       "VALUE": true,
@@ -114,17 +93,11 @@
     },
     "FARMER_PROFILE_FLAGS": {
       "VALUE": true,
-      "ORGANISATIONS": [21,70],
-      "FALSE_FOR": {
-        "AGENT": [528]
-      }
+      "ORGANISATIONS": [21,70]
     },
     "COMMUNITY_FLAGGING": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 70],
-      "FALSE_FOR": {
-        "AGENT": [528]
-      }
+      "ORGANISATIONS": [21, 70]
     },
     "FARMER_SUPPORT_YEAR": {
       "VALUE": 2026
@@ -195,16 +168,10 @@
     },
     "PURCHASE_PRE": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 70],
-      "FALSE_FOR": {
-        "AGENT": [528]
-      }
+      "ORGANISATIONS": [21, 70]
     },
     "ORGANISATION_SWITCHING": {
-      "VALUE": true,
-      "FALSE_FOR": {
-        "AGENT": [528]
-      }
+      "VALUE": true
     },
     "ENFORCE_FACE_DETECTION": {
        "VALUE": false
