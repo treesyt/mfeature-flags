@@ -157,9 +157,6 @@
     "NURSERY_SEEDLING_ASSIGNMENT": {
       "VALUE": true
     },
-    "SYNC_ENGINE_FARMER_GROUP": {
-      "VALUE": false
-    },
     "NURSERY_MANAGEMENT": {
       "VALUE": true,
       "TRUE_FOR": {
