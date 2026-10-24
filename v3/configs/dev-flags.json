@@ -25,7 +25,7 @@
     },
     "BYPASS_PURCHASE_REQUEST": {
       "VALUE": true,
-      "ORGANISATIONS": [92, 21]
+      "ORGANISATIONS": [92]
     },
     "FORMS": {
       "VALUE": true
