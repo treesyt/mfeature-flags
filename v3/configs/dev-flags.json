@@ -1,5 +1,11 @@
 {
   "FLAGS": {
+    "SYNC_ENGINE_FORMS": {
+      "VALUE": true,
+      "FALSE_FOR": {
+        "AGENT": [405]
+      }
+    },
     "PROFILING": {
       "VALUE": true,
       "ORGANISATIONS": [21, 49, 70, 81, 92, 93, 99]
