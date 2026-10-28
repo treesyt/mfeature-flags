@@ -192,10 +192,6 @@
     },
     "WEEKLY_BUDGET_AI_SHADOW_REVIEW": {
       "VALUE": true
-    },
-    "SYNC_ENGINE": {
-      "VALUE": true,
-      "FALSE_FOR": { "AGENT": [148, 451] }
     }
   },
   "FORMS": {
