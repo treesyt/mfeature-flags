@@ -99,6 +99,10 @@
       "VALUE": true,
       "ORGANISATIONS": [21, 70]
     },
+    "FARM_INPUT_SUPPORT": {
+      "VALUE": true,
+      "ORGANISATIONS": [21, 70]
+    },
     "FARMER_SUPPORT_YEAR": {
       "VALUE": 2026
     },
