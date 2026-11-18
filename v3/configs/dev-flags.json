@@ -44,10 +44,7 @@
       "VALUE": false
     },
     "WAREHOUSE_OFFICER_FORMS": {
-      "VALUE": false,
-      "TRUE_FOR": {
-        "AGENT": [536]
-      }
+      "VALUE": false
     },
     "WAREHOUSE_OFFICER_FARMER_SUPPORT": {
       "VALUE": false
