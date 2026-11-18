@@ -32,10 +32,7 @@
     },
     "INVENTORY_MANAGEMENT": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 70],
-      "FALSE_FOR": {
-        "AGENT": [536]
-      }
+      "ORGANISATIONS": [21, 70]
     },
     "INVENTORY_PRE": {
       "VALUE": true
