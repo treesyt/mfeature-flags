@@ -21,7 +21,10 @@
     },
     "PURCHASES": {
       "VALUE": true,
-      "ORGANISATIONS": [21, 70, 81, 92, 93, 99]
+      "ORGANISATIONS": [21, 70, 81, 92, 93, 99],
+      "FALSE_FOR": {
+        "AGENT": [536]
+      }
     },
     "BYPASS_PURCHASE_REQUEST": {
       "VALUE": true,
@@ -38,22 +41,16 @@
       "VALUE": true
     },
     "WAREHOUSE_OFFICER_TRAINING": {
-      "VALUE": false,
-      "TRUE_FOR": {
-        "AGENT": [536]
-      }
+      "VALUE": "yes"
     },
     "WAREHOUSE_OFFICER_FORMS": {
       "VALUE": false,
       "TRUE_FOR": {
-        "AGENT": [536]
+        "AGENT": [999999]
       }
     },
     "WAREHOUSE_OFFICER_FARMER_SUPPORT": {
-      "VALUE": false,
-      "TRUE_FOR": {
-        "AGENT": [536]
-      }
+      "VALUE": false
     },
     "WAREHOUSE_OFFICER_GREEN_TRACKER": {
       "VALUE": false,
