@@ -37,6 +37,48 @@
     "INVENTORY_PRE": {
       "VALUE": true
     },
+    "WAREHOUSE_OFFICER_TRAINING": {
+      "VALUE": false,
+      "TRUE_FOR": {
+        "AGENT": [536]
+      }
+    },
+    "WAREHOUSE_OFFICER_FORMS": {
+      "VALUE": false,
+      "TRUE_FOR": {
+        "AGENT": [536]
+      }
+    },
+    "WAREHOUSE_OFFICER_FARMER_SUPPORT": {
+      "VALUE": false,
+      "TRUE_FOR": {
+        "AGENT": [536]
+      }
+    },
+    "WAREHOUSE_OFFICER_GREEN_TRACKER": {
+      "VALUE": false,
+      "TRUE_FOR": {
+        "AGENT": [536]
+      }
+    },
+    "WAREHOUSE_OFFICER_PROFILING": {
+      "VALUE": false,
+      "TRUE_FOR": {
+        "AGENT": [536]
+      }
+    },
+    "WAREHOUSE_OFFICER_PURCHASES": {
+      "VALUE": false,
+      "TRUE_FOR": {
+        "AGENT": [536]
+      }
+    },
+    "WAREHOUSE_OFFICER_WEEKLY_ACTIVITIES": {
+      "VALUE": false,
+      "TRUE_FOR": {
+        "AGENT": [536]
+      }
+    },
     "FARMER_PROFILING": {
       "VALUE": true
     },
