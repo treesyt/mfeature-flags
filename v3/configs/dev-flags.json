@@ -211,6 +211,12 @@
         "AGENT": [451,448, 277]
       }
     },
+    "WEEKLY_BUDGET_OFFLINE": {
+      "VALUE": false,
+      "TRUE_FOR": {
+        "AGENT": [425]
+      }
+    },
     "WEEKLY_ACTIVITIES": {
       "VALUE": true,
       "ORGANISATIONS": [21]
